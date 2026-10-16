@@ -28,6 +28,7 @@ Each file is one symbol master: `{ id, symbolId, name, type, frame, style, stack
 - `style.shadows[]`, `style.innerShadows[]`: `{color, x, y, blur, spread}`.
 - `style.blurs[]`: `{type: Background|Glass, radius, saturation, brightness, distortion, depth,
   chromaticAberration, specular}`. Background radius uses CSS `blur()` semantics (σ = radius).
+- `style.borderOptions`: `{dashPattern, lineEnd, lineJoin, startArrowhead, endArrowhead}` on every layer (`dashPattern: []` when solid).
 - `style.corners`: `{radii[], smoothing, style}`; smoothing 0.6 = Amalfi smooth (continuous) corners.
 - `sharedStyle`: the shared layer or text style name (`Light/Glass/Thick`, `Light/Body/Primary` …).
 - Text: `text`, `font {family, size, weight, lineHeight, kerning, align, verticalAlign, color}`.
