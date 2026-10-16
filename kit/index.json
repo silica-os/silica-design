@@ -6201,6 +6201,30 @@
    "png": "kit/symbols/Dock/Indicator/Dot/Rest/Light@2x.png"
   },
   {
+   "name": "Dock/Label/Rest/Dark",
+   "id": "3E480BD2-8BA1-440A-A982-F77EE4D69DC7",
+   "json": "kit/symbols/Dock/Label/Rest/Dark.json",
+   "png": "kit/symbols/Dock/Label/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Dock/Label/Rest/Light",
+   "id": "48D70BD6-EE0E-46EC-9CCB-3D5022B59B65",
+   "json": "kit/symbols/Dock/Label/Rest/Light.json",
+   "png": "kit/symbols/Dock/Label/Rest/Light@2x.png"
+  },
+  {
+   "name": "Dock/Menu/Rest/Dark",
+   "id": "17CCF3B3-E744-4AFA-8A04-80F3FE447B50",
+   "json": "kit/symbols/Dock/Menu/Rest/Dark.json",
+   "png": "kit/symbols/Dock/Menu/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Dock/Menu/Rest/Light",
+   "id": "81AA8ADD-0F57-4CFC-A629-FF62967E44C1",
+   "json": "kit/symbols/Dock/Menu/Rest/Light.json",
+   "png": "kit/symbols/Dock/Menu/Rest/Light@2x.png"
+  },
+  {
    "name": "Dock/Separator/Line/Rest/Dark",
    "id": "5D0E81C2-C5D9-470C-80D2-16B0BD561166",
    "json": "kit/symbols/Dock/Separator/Line/Rest/Dark.json",
