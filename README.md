@@ -15,7 +15,7 @@ kit/
   pages/<Page>/<Artboard>.png        each page artboard at 1× (component sheets, app screens)
 ```
 
-Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2822 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
+Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2804 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
 
 ## JSON format
 

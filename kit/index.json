@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-16 (kit fixes)",
+ "exported": "2026-10-16 (kit fixes round 2)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -13269,30 +13269,6 @@
    "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Inactive/Light@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Full Inset 8/Active/Dark",
-   "id": "D3592524-01DD-4B87-95D9-72900992E084",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Full Inset 8/Active/Light",
-   "id": "6A32D8F7-A864-4522-91B5-38CD9FE83254",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark",
-   "id": "ACD1F226-80D3-4672-A72F-C00361E682A4",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Full Inset 8/Inactive/Light",
-   "id": "37FD89C7-1940-4C4B-84CA-16A5C95A9F8E",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Light.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Light@2x.png"
-  },
-  {
    "name": "Titlebars/Controls/Hover/Dark",
    "id": "7ADC4531-164C-443A-9394-2A0CE00230E7",
    "json": "kit/symbols/Titlebars/Controls/Hover/Dark.json",
@@ -14305,90 +14281,6 @@
    "id": "4EA472D7-A79E-4850-8F64-7F1D0FD6F7F9",
    "json": "kit/symbols/Titlebars/Title Bar/Subtitle/Inactive/Light.json",
    "png": "kit/symbols/Titlebars/Title Bar/Subtitle/Inactive/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Compact/Active/Dark",
-   "id": "7DBB76B1-B83A-4B35-B804-CC6A74C5C532",
-   "json": "kit/symbols/Titlebars/Toolbar/Compact/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Compact/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Compact/Active/Light",
-   "id": "D4705CA1-E22B-47BE-8F80-60FD17ACB2C4",
-   "json": "kit/symbols/Titlebars/Toolbar/Compact/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Compact/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Unified/Active/Dark",
-   "id": "D15CA5AF-522A-4733-A320-CF4DB13B7966",
-   "json": "kit/symbols/Titlebars/Toolbar/Unified/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Unified/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Unified/Active/Light",
-   "id": "AFAD943D-15B4-4494-995B-90225EFA1C0A",
-   "json": "kit/symbols/Titlebars/Toolbar/Unified/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Unified/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Unified/Inactive/Dark",
-   "id": "9C0170EB-05CD-4C41-9F30-DAF0D43087B7",
-   "json": "kit/symbols/Titlebars/Toolbar/Unified/Inactive/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Unified/Inactive/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/Unified/Inactive/Light",
-   "id": "2637DD7E-4FE8-4087-AF11-338D1337AEDB",
-   "json": "kit/symbols/Titlebars/Toolbar/Unified/Inactive/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/Unified/Inactive/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Labels/Active/Dark",
-   "id": "8F4EEED6-1E57-4D60-B0CD-4183D2270F9C",
-   "json": "kit/symbols/Titlebars/Toolbar/With Labels/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Labels/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Labels/Active/Light",
-   "id": "47183473-92B6-47D8-8B7E-04FA72B6FA45",
-   "json": "kit/symbols/Titlebars/Toolbar/With Labels/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Labels/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Search/Active/Dark",
-   "id": "9D2B89DA-6B8F-4A85-B13C-764FA13D8577",
-   "json": "kit/symbols/Titlebars/Toolbar/With Search/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Search/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Search/Active/Light",
-   "id": "DB88F871-815C-48B2-974A-C0384E8D5D45",
-   "json": "kit/symbols/Titlebars/Toolbar/With Search/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Search/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Segments/Active/Dark",
-   "id": "4425D1B6-BB8A-4063-B472-9D1B3D7C27CE",
-   "json": "kit/symbols/Titlebars/Toolbar/With Segments/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Segments/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Segments/Active/Light",
-   "id": "AA129B18-0847-4373-A2CF-7BA22A7F6DFF",
-   "json": "kit/symbols/Titlebars/Toolbar/With Segments/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Segments/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Sidebar Toggle/Active/Dark",
-   "id": "70F45773-EFA0-4E2B-B694-42AFEA8155CD",
-   "json": "kit/symbols/Titlebars/Toolbar/With Sidebar Toggle/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Sidebar Toggle/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Toolbar/With Sidebar Toggle/Active/Light",
-   "id": "72619FEF-87F6-4BE4-8B48-867749480864",
-   "json": "kit/symbols/Titlebars/Toolbar/With Sidebar Toggle/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Toolbar/With Sidebar Toggle/Active/Light@2x.png"
   },
   {
    "name": "Toggles/Checkbox Group/List/Rest/Dark",
@@ -17860,16 +17752,6 @@
    "page": "Titlebars and toolbars",
    "artboard": "Title bars / Dark",
    "png": "kit/pages/Titlebars and toolbars/Title bars - Dark.png"
-  },
-  {
-   "page": "Titlebars and toolbars",
-   "artboard": "Toolbars / Light",
-   "png": "kit/pages/Titlebars and toolbars/Toolbars - Light.png"
-  },
-  {
-   "page": "Titlebars and toolbars",
-   "artboard": "Toolbars / Dark",
-   "png": "kit/pages/Titlebars and toolbars/Toolbars - Dark.png"
   },
   {
    "page": "Titlebars and toolbars",
