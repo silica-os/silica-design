@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-16",
+ "exported": "2026-10-16 (kit fixes)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -13245,268 +13245,52 @@
    "png": "kit/symbols/Titlebars/Bar/Title Only/Inactive/Light@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "7572A587-0F17-426A-B8CD-D8C9DD612084",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "7B023A23-48B6-4056-8653-B14698F3C6BE",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (7B023A23).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (7B023A23)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "DF9FD9D6-DA51-432C-8B0B-51AA9A77E439",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (DF9FD9D6).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (DF9FD9D6)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "FF5AEB3E-75A3-4E38-A203-639DEFEE2497",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (FF5AEB3E).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (FF5AEB3E)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "1F828AEB-21A6-4BE9-9474-6528150B3CE7",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (1F828AEB).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (1F828AEB)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "3D34826C-7081-42D3-86EE-2DEB5D54E37E",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (3D34826C).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (3D34826C)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "5CC504AF-E42C-432A-8996-D57B2D64FDC4",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (5CC504AF).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (5CC504AF)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "F218CA16-85BB-48BA-AAFB-B199C26C48EF",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (F218CA16).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (F218CA16)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "D3592524-01DD-4B87-95D9-72900992E084",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (D3592524).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (D3592524)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
+   "name": "Titlebars/Bar/Unified/Full Inset 16/Active/Dark",
    "id": "081FF8FF-A262-415C-9F0E-AD20EA0AFB73",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (081FF8FF).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (081FF8FF)@2x.png"
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Active/Dark.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Active/Dark@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Active/Dark",
-   "id": "4B8703A3-9A23-407B-AB8E-B9E1E8D2C0E2",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (4B8703A3).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Dark (4B8703A3)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "A22DEB08-3FA9-4BFD-838A-6677DA0D9BFC",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "A9A5CB5F-E2FF-4278-AB93-71FCF55DD950",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (A9A5CB5F).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (A9A5CB5F)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "42CEEA07-499A-4854-A9B1-F0E3B81407A3",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (42CEEA07).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (42CEEA07)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "9A498417-C05E-4014-92F2-52DB41E2646D",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (9A498417).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (9A498417)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "433E81F9-8446-40FD-A918-D9D0768B9FBA",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (433E81F9).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (433E81F9)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "6486CC39-D9FD-4D53-B0EC-F3000352920C",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (6486CC39).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (6486CC39)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "314DC809-EDAD-4844-816E-7330EFD4C8B5",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (314DC809).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (314DC809)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "C655F193-738B-4276-89FF-39FFDC5C7CFD",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (C655F193).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (C655F193)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "6A32D8F7-A864-4522-91B5-38CD9FE83254",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (6A32D8F7).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (6A32D8F7)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Active/Light",
+   "name": "Titlebars/Bar/Unified/Full Inset 16/Active/Light",
    "id": "3E208368-B784-4D69-9107-1EAB87AA1DE0",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (3E208368).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (3E208368)@2x.png"
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Active/Light.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Active/Light@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Active/Light",
-   "id": "BBC9A6FE-D607-4A90-8D30-FD3C504F8D4E",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Active/Light (BBC9A6FE).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Active/Light (BBC9A6FE)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "822B9FE3-04F8-4920-8840-3941B71062E3",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "7C8DDDC5-934C-4F0F-88B2-5360087C56CC",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (7C8DDDC5).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (7C8DDDC5)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "98D8240D-18E8-41C9-B0EF-2E6A9DA9C5DF",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (98D8240D).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (98D8240D)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "17A8D223-E19B-4D39-8438-260849C48D36",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (17A8D223).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (17A8D223)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "E28991DC-4E93-4FDB-883B-FBD3DF4776C4",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (E28991DC).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (E28991DC)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "59606C9F-36D6-4C39-8687-A73C6DFA6EF9",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (59606C9F).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (59606C9F)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "9F70CC9A-0006-404F-85B7-A88E6DB23216",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (9F70CC9A).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (9F70CC9A)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "09133186-E557-4D6C-A774-F39FD26AB89A",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (09133186).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (09133186)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "ACD1F226-80D3-4672-A72F-C00361E682A4",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (ACD1F226).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (ACD1F226)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
+   "name": "Titlebars/Bar/Unified/Full Inset 16/Inactive/Dark",
    "id": "2C216247-F693-4DF1-BA63-4CA3ECA03A01",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (2C216247).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (2C216247)@2x.png"
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Inactive/Dark.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Inactive/Dark@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Inactive/Dark",
-   "id": "C841AF6A-AFAD-4E61-B24E-C8E5F03468D4",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (C841AF6A).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Dark (C841AF6A)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "29854D67-6DC2-4520-9F01-D5B32C407E7C",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light.json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "73C49055-6792-4F03-B405-0B9E7308A57D",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (73C49055).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (73C49055)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "BC3EB4B6-0D27-44D9-9B71-F6D3FAD44183",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (BC3EB4B6).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (BC3EB4B6)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "1DA30F9A-88D8-4321-A6D8-06290A591A96",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (1DA30F9A).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (1DA30F9A)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "09F733BD-38F2-40D4-87A3-C111AC4AF423",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (09F733BD).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (09F733BD)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "09156FD7-BFF5-4ACC-9D24-ADD382349F2D",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (09156FD7).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (09156FD7)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "C897B5A1-F6E2-4C52-AD01-5D922472ADA7",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (C897B5A1).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (C897B5A1)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "8C53378F-E829-4D91-B435-3CF0CD1F5C4D",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (8C53378F).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (8C53378F)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "37FD89C7-1940-4C4B-84CA-16A5C95A9F8E",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (37FD89C7).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (37FD89C7)@2x.png"
-  },
-  {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
+   "name": "Titlebars/Bar/Unified/Full Inset 16/Inactive/Light",
    "id": "12AB4EC0-EAE9-4D73-A0E5-04FBBF196681",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (12AB4EC0).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (12AB4EC0)@2x.png"
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Inactive/Light.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 16/Inactive/Light@2x.png"
   },
   {
-   "name": "Titlebars/Bar/Unified/Inactive/Light",
-   "id": "9EFF806F-D683-44AB-B6AB-3E835D187BE8",
-   "json": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (9EFF806F).json",
-   "png": "kit/symbols/Titlebars/Bar/Unified/Inactive/Light (9EFF806F)@2x.png"
+   "name": "Titlebars/Bar/Unified/Full Inset 8/Active/Dark",
+   "id": "D3592524-01DD-4B87-95D9-72900992E084",
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Dark.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Dark@2x.png"
+  },
+  {
+   "name": "Titlebars/Bar/Unified/Full Inset 8/Active/Light",
+   "id": "6A32D8F7-A864-4522-91B5-38CD9FE83254",
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Light.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Active/Light@2x.png"
+  },
+  {
+   "name": "Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark",
+   "id": "ACD1F226-80D3-4672-A72F-C00361E682A4",
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Dark@2x.png"
+  },
+  {
+   "name": "Titlebars/Bar/Unified/Full Inset 8/Inactive/Light",
+   "id": "37FD89C7-1940-4C4B-84CA-16A5C95A9F8E",
+   "json": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Light.json",
+   "png": "kit/symbols/Titlebars/Bar/Unified/Full Inset 8/Inactive/Light@2x.png"
   },
   {
    "name": "Titlebars/Controls/Hover/Dark",
