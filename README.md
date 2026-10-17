@@ -15,7 +15,7 @@ kit/
   pages/<Page>/<Artboard>.png        each page artboard at 1× (component sheets, app screens)
 ```
 
-Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2782 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
+Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2793 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
 
 ## JSON format
 
@@ -43,6 +43,40 @@ Each file is one symbol master: `{ id, symbolId, name, type, frame, style, stack
 
 - The kit is regenerated from the Sketch source; do not edit these files by hand.
 - Text in the PNGs is rasterised by Sketch: compare geometry from the JSON exactly, pixels with a tolerance.
+
+## Regenerating the kit
+
+The scripts live in `tools/`. They need Sketch with the MCP server enabled (Settings, General, Allow AI tools to
+interact with open documents) and the document "Silica 1.0 Amalfi UI Kit" open; they only read and export, nothing is
+saved in the document. Never open another kit in the same session.
+
+1. Pick an empty scratch folder `$S` with the sub-folders `png` and `pages`.
+2. Masters, in batches of about 500 (one `run_code` call each; `start` is the offset in the name-sorted master list,
+   2793 at the time of writing). The script returns the JSON layer trees and writes the 2x PNGs, named by id, to `png`:
+   ```js
+   const sketch = require('sketch');
+   const fn = require('/path/to/silica-design/tools/export-symbols.js');
+   fn({ start: 0, count: 500, png: true, out: '/path/to/S/png' });
+   ```
+   The output is padded past the size limit on purpose, so Claude Code saves it to a file instead of printing it.
+   After each call run `tools/ingest.sh $S b<start>`: it takes the newest saved `run_code` result, stores it as
+   `$S/b<start>.json` and converts the masters into `$S/stage/` (it adds the `svg` path of every shape, see
+   `tools/kitpath.py`).
+3. Page artboards, in one call (1x PNGs by id into `pages`, separator pages and the Symbols page skipped):
+   ```js
+   const sketch = require('sketch');
+   const fn = require('/path/to/silica-design/tools/export-pages.js');
+   fn({ png: true, out: '/path/to/S/pages' });
+   ```
+   Save the saved result with `python3 tools/grab.py <result-file> $S/pages.json`.
+4. `python3 tools/build_kit.py finish $S . '<date> (<label>)'` rewrites `kit/symbols`, `kit/pages` and
+   `kit/index.json` (masters and artboards that no longer exist disappear, new ones appear) and prints the counts.
+5. Optional format check: `python3 tools/diff_format.py $S/stage kit/symbols` (run it before step 4) lists, per file,
+   the keys and values that differ from the committed export; only real design changes should show up.
+
+Notes: the bridge doubles backslashes in saved results (`grab.py` undoes it); the `svg` paths are computed in
+`kitpath.py` (Sketch continuous corners, as in figma-squircle) because Sketch's own SVG export insets paths for inside
+borders.
 
 ## Licence
 
