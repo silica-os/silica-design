@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (Light glass shadow fill, Clock stopwatch toolbar without Add)",
+ "exported": "2026-10-17 (Mustache toolbar width states)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -1513,6 +1513,522 @@
    "id": "8CC03D9C-B6BA-44E9-B3BF-E3FB8BB060D3",
    "json": "kit/symbols/Apps/Mustache/Toolbar Sidebar/Light.json",
    "png": "kit/symbols/Apps/Mustache/Toolbar Sidebar/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Actions Menu/File/Dark",
+   "id": "E1E96574-377D-456A-84C2-0141BE8414C7",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/File/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/File/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Actions Menu/File/Light",
+   "id": "F4470468-43B4-485F-9EAA-6DC36716AFAA",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/File/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/File/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Actions Menu/No Selection/Dark",
+   "id": "3B792103-9708-45E6-B037-040EEF8A1A1E",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/No Selection/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/No Selection/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Actions Menu/No Selection/Light",
+   "id": "1FE8F8E9-5307-4C36-BA9A-931658E9231A",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/No Selection/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Actions Menu/No Selection/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Full/Dark",
+   "id": "30210406-2CF2-4BBC-9E9F-EA5A506704E2",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Full/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Full/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Full/Light",
+   "id": "74829650-09CD-4C69-BA51-E0E62A3EF2CC",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Full/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Full/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Group Overflow/Dark",
+   "id": "6A8B9117-C7A8-45C1-8985-AD422E2820C5",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Group Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Group Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Group Overflow/Light",
+   "id": "B42982D3-0573-4198-B576-B7AA96B075AE",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Group Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Group Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Minimum/Dark",
+   "id": "A95B299B-B7DB-4AA4-AB98-BC868D1982A4",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Minimum/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Minimum/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Minimum/Light",
+   "id": "E8E19897-84A6-4987-882F-E71EF3FF224E",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Minimum/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Minimum/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Group Overflow/Dark",
+   "id": "BA47F45E-B7A1-44E8-8AC4-E42EC0221B35",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Group Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Group Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Group Overflow/Light",
+   "id": "5998665A-2465-4DAA-AF6C-3B52B2CD155B",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Group Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Group Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Minimum/Dark",
+   "id": "A92CFAE5-8E0A-47B6-BEE6-0031A9D23837",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Minimum/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Minimum/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Minimum/Light",
+   "id": "6555A86E-7ED9-48B8-9248-820617120DD0",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Minimum/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Minimum/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Share Overflow/Dark",
+   "id": "7E54F950-62FB-4122-85A7-F6FBC0778C47",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Share Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Share Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Share Overflow/Light",
+   "id": "64D99687-E0DA-4E77-9D25-ECF779DAAC9D",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Share Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Share Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Dark",
+   "id": "2F782CE5-AD1C-4A13-901E-E8D0A28D53E2",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Light",
+   "id": "AFA30423-AFB2-487D-A368-5DF8E9B09978",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search Tags Actions Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search View Collapsed/Dark",
+   "id": "9B73D7E6-AEB7-4768-B9AF-0BF121BE060D",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Collapsed/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Collapsed/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search View Collapsed/Light",
+   "id": "F3EE7C06-7098-4B08-92BB-10E42D69E1E0",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Collapsed/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Collapsed/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search View Overflow/Dark",
+   "id": "4273357E-A6EB-4CF4-9AED-B0EF6EB0F1FD",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Search View Overflow/Light",
+   "id": "595299FB-C4A9-4093-BED5-7A98F36E6D9C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Search View Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Share Overflow/Dark",
+   "id": "758C222E-C03A-412C-AC48-E7E65FF39DE2",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Share Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Share Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Share Overflow/Light",
+   "id": "427C39A9-B210-4F03-B611-A4F9D2BB7EBC",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Share Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Share Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Dark",
+   "id": "383F7C2A-3CEF-4875-A3D0-8B0156A1CAE1",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Light",
+   "id": "25D63A4C-B88B-41E6-B165-576C370C2E03",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Tags Actions Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/View Collapsed/Dark",
+   "id": "37D0C0DA-E7B5-4716-8F1F-A0F0DF157983",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Collapsed/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Collapsed/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/View Collapsed/Light",
+   "id": "F76D1997-AABA-4205-91D8-76AF986552D9",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Collapsed/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Collapsed/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/View Overflow/Dark",
+   "id": "56127FCE-4F35-4A2B-A092-ECDEDC1BB197",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Overflow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Overflow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/View Overflow/Light",
+   "id": "F94A42C3-6D73-4B16-89D8-589145D52D86",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Overflow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/View Overflow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Wide/Dark",
+   "id": "953EE2FA-E741-4F81-AC68-F72EED812E2A",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Wide/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Wide/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Bar/Wide/Light",
+   "id": "AED1061C-37A8-40D3-9DE7-75170F2FD1C8",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Bar/Wide/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Bar/Wide/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Group Menu/Dark",
+   "id": "7965B422-FB6D-4C32-A8B6-E26734F857AF",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Group Menu/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Group Menu/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Group Menu/Light",
+   "id": "442F941A-936A-427A-8D9D-FBC760895B89",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Group Menu/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Group Menu/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Group/Rest/Dark",
+   "id": "97A9497F-3E22-49DE-A449-27E78ACC122A",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Group/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Group/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Group/Rest/Light",
+   "id": "295F18EB-FEAB-432E-8C65-286BA3ED85CF",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Group/Rest/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Group/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Narrow/Dark",
+   "id": "B912FF58-13C9-4676-825F-6EB4D817FF5F",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Narrow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Narrow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Narrow/Light",
+   "id": "E4382228-0FB2-47CF-9FF5-62EE7FA3ED4C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Narrow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Narrow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Dark",
+   "id": "C296036E-8098-4FED-8273-6408D84F739C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Light",
+   "id": "176D1D77-D287-4037-AA69-858509E79807",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Medium/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Dark",
+   "id": "A6D9E979-D9BB-4B21-BDAE-E842F12EB464",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Light",
+   "id": "3526D37C-410C-4CD4-B862-7B77D79868A9",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow Menu/Search Narrow/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow/Rest/Dark",
+   "id": "37394523-F2F2-47B3-8FA4-F971CE01AA2F",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Overflow/Rest/Light",
+   "id": "9CF3284E-D4C8-47D4-A331-DE34633D7251",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Overflow/Rest/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Overflow/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Button/Dark",
+   "id": "E632E414-04B0-4010-8070-C67F2A753268",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Button/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Button/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Button/Light",
+   "id": "86144A9C-2797-40E9-9D89-D3B27D5C0D12",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Button/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Button/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Focused/Dark",
+   "id": "F0378C1E-D409-484D-9979-CFE0B5358E76",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Focused/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Focused/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Focused/Light",
+   "id": "AD3F3673-4A54-4EA1-82EF-7857613C23BC",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Focused/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Focused/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Permanent/Dark",
+   "id": "9FDABF2D-D9E3-45F3-A1B5-112DD414FEA1",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Permanent/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Permanent/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Permanent/Light",
+   "id": "8EB8BAC1-B62B-453D-ACE8-3F92CB0404E6",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Permanent/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Permanent/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Text Idle/Dark",
+   "id": "138D6440-D3EF-437A-84DE-1C0CBC50845C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text Idle/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text Idle/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Text Idle/Light",
+   "id": "849F2BC6-AB5F-4FE3-8F51-9F1C7F3E506E",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text Idle/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text Idle/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Text/Dark",
+   "id": "F2259E0A-0B86-4CDF-AFFB-5CC10979E07D",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Search/Field Text/Light",
+   "id": "D0B4ADB9-E8EC-44DE-BCBD-65C7A41B08C4",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Search/Field Text/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Popover/Dark",
+   "id": "0ABFAF2B-1B4B-45D1-B1AE-F4F49178501F",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Popover/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Popover/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Popover/Light",
+   "id": "687D2E65-7306-40C8-8A17-19F73DB0531F",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Popover/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Popover/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Dark",
+   "id": "17790F15-3090-431D-8399-37E810AAE55C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Light",
+   "id": "8C508278-4F3A-43C5-B5A4-1C3B0DAC1804",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Tags Actions/Rest/Dark",
+   "id": "CCE0A43A-85C1-4D3B-9C5B-214BD3E11291",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share Tags Actions/Rest/Light",
+   "id": "E7579CD1-6D59-4271-8CB1-08EF7CE02B01",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Rest/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share Tags Actions/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share/Disabled/Dark",
+   "id": "5FC46682-3372-4B1B-901F-0A2B7B1940D2",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share/Disabled/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share/Disabled/Light",
+   "id": "AB8B87C4-C2EA-43E0-AA5C-E99C0650F9F5",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share/Disabled/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share/Rest/Dark",
+   "id": "4F9477CF-8B6E-4BF7-860E-A06A574D38FE",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Share/Rest/Light",
+   "id": "3BEB4449-E0C7-4CEB-BF18-E74279067662",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Share/Rest/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Share/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Sort Menu/Dark",
+   "id": "3D1F035D-D1DD-4AB4-B00C-A1721C9B14B0",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Sort Menu/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Sort Menu/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Sort Menu/Light",
+   "id": "22AFB552-0A98-4519-B060-14757E79B666",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Sort Menu/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Sort Menu/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Tags Popover/Dark",
+   "id": "D25B765C-F59C-4CE0-B3DF-EBAF4D9E6803",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Tags Popover/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Tags Popover/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/Tags Popover/Light",
+   "id": "4A065B17-2F01-4F16-8244-55C26E34641F",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/Tags Popover/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/Tags Popover/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Menu/Dark",
+   "id": "50E61C45-64C0-42D5-AEC0-5F4FA252A865",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Menu/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Menu/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Menu/Light",
+   "id": "923CF834-9A8C-47C6-B6D0-27CA2F278CCE",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Menu/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Menu/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Columns/Dark",
+   "id": "DB731BC8-C086-4542-996F-305C852CB0FD",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Columns/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Columns/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Columns/Light",
+   "id": "72F88BAD-D7F1-4B4E-A9C8-F86C4FEC5359",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Columns/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Columns/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Gallery/Dark",
+   "id": "0926A4A7-6AF3-4074-BF42-0AC84BC64BE7",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Gallery/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Gallery/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Gallery/Light",
+   "id": "28E13590-FE9D-4523-A539-5894C3AF7785",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Gallery/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Gallery/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Icons/Dark",
+   "id": "24D4FEEB-F98C-4548-AD43-A4FFEE59F9AE",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Icons/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Icons/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/Icons/Light",
+   "id": "214978F7-0F80-4DCF-B583-2EC8E4EAA61C",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Icons/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/Icons/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/List/Dark",
+   "id": "E37AAEE1-66CB-41DA-B45B-6DFC3E65D1DB",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/List/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/List/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View Pop-up/List/Light",
+   "id": "3131B929-F2BB-49DE-9830-4AEA98F6D4B8",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/List/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View Pop-up/List/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Columns/Dark",
+   "id": "FB527659-108C-42AA-B4BD-6C92482990C2",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Columns/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Columns/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Columns/Light",
+   "id": "F51979B9-3981-4790-A75C-CB1E413BF24D",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Columns/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Columns/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Gallery/Dark",
+   "id": "9D68E893-CBBE-4544-AF9E-65D537708470",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Gallery/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Gallery/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Gallery/Light",
+   "id": "98CB4FCB-7AEE-4AC1-AD18-0FC3777065D1",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Gallery/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Gallery/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Icons/Dark",
+   "id": "73145028-6D1B-4075-9442-08294024F174",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Icons/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Icons/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/Icons/Light",
+   "id": "7D95E589-72F0-447D-85A0-179F8BA2A885",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/Icons/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/Icons/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/List/Dark",
+   "id": "261CE131-89F7-4D53-8F48-112B5F1079BC",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/List/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/List/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Toolbar/View/List/Light",
+   "id": "60D5EC46-D2BF-45FB-B633-6CADAB3904F6",
+   "json": "kit/symbols/Apps/Mustache/Toolbar/View/List/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Toolbar/View/List/Light@2x.png"
   },
   {
    "name": "Apps/Notes/Card/Dark",
@@ -19471,6 +19987,26 @@
    "page": "App · Clock",
    "artboard": "Stopwatch, analog / Dark",
    "png": "kit/pages/App · Clock/Stopwatch, analog - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Toolbar width states / Light",
+   "png": "kit/pages/App · Mustache/Toolbar width states - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Toolbar width states / Dark",
+   "png": "kit/pages/App · Mustache/Toolbar width states - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Toolbar controls and menus / Light",
+   "png": "kit/pages/App · Mustache/Toolbar controls and menus - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Toolbar controls and menus / Dark",
+   "png": "kit/pages/App · Mustache/Toolbar controls and menus - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
