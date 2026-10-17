@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (dock label above icon)",
+ "exported": "2026-10-17 (sidebar glyph colours, selection, no divider)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -12975,6 +12975,18 @@
    "png": "kit/symbols/Sidebars/Row/Badge/Rest/Light@2x.png"
   },
   {
+   "name": "Sidebars/Row/Badge/Selected Inactive/Dark",
+   "id": "E4DE5C58-DA9C-4A83-81F3-768817082488",
+   "json": "kit/symbols/Sidebars/Row/Badge/Selected Inactive/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Badge/Selected Inactive/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Badge/Selected Inactive/Light",
+   "id": "6DEBE3EB-D644-4194-9BF9-90A87B250D0D",
+   "json": "kit/symbols/Sidebars/Row/Badge/Selected Inactive/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Badge/Selected Inactive/Light@2x.png"
+  },
+  {
    "name": "Sidebars/Row/Badge/Selected/Dark",
    "id": "30FA7665-2D39-4CA6-9334-6CF966AF4A4F",
    "json": "kit/symbols/Sidebars/Row/Badge/Selected/Dark.json",
@@ -13021,6 +13033,18 @@
    "id": "92E7C111-97AA-4298-B2FF-0DB8F230F58B",
    "json": "kit/symbols/Sidebars/Row/Plain/Rest/Light.json",
    "png": "kit/symbols/Sidebars/Row/Plain/Rest/Light@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Plain/Selected Inactive/Dark",
+   "id": "4B130BF7-D11E-4582-ADF4-0E6D81099C2C",
+   "json": "kit/symbols/Sidebars/Row/Plain/Selected Inactive/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Plain/Selected Inactive/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Plain/Selected Inactive/Light",
+   "id": "FBC89C13-2264-416C-B738-FDC92AEDDE36",
+   "json": "kit/symbols/Sidebars/Row/Plain/Selected Inactive/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Plain/Selected Inactive/Light@2x.png"
   },
   {
    "name": "Sidebars/Row/Plain/Selected/Dark",
