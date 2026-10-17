@@ -4,6 +4,7 @@
 usage:
   build_kit.py master <batch.json> <stage-dir>   convert one export-symbols.js batch (JSON files only)
   build_kit.py finish <scratch-dir> <repo-dir> <label>   place PNGs, pages, index.json; remove stale files
+  build_kit.py merge <scratch-dir> <repo-dir> <label>    add or replace only the exported masters and artboards
 
 See README.md, "Regenerating the kit".
 """
@@ -91,8 +92,41 @@ def cmd_finish(scratch, repo, label):
     print('added artboards', len(new_pages - old_pages), 'removed artboards', len(old_pages - new_pages))
 
 
+def cmd_merge(scratch, repo, label):
+    """Add or replace only the masters and page artboards exported in scratch (see README, partial update)."""
+    import glob
+    import shutil
+    kit = os.path.join(repo, 'kit')
+    index = json.load(open(os.path.join(kit, 'index.json')))
+    symbols = {s['name']: s for s in index['symbols']}
+    for b in sorted(glob.glob(os.path.join(scratch, 'b[0-9]*.json'))):
+        for m in json.load(open(b))['masters']:
+            name, mid = m['name'], m['id']
+            rel = 'kit/symbols/' + name
+            dst = os.path.join(repo, rel)
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            shutil.copy(os.path.join(scratch, 'stage', name + '.json'), dst + '.json')
+            shutil.copy(os.path.join(scratch, 'png', mid + '@2x.png'), dst + '@2x.png')
+            symbols[name] = {'name': name, 'id': mid, 'json': rel + '.json', 'png': rel + '@2x.png'}
+    pages = {(p['page'], p['artboard']): p for p in index['pages']}
+    for page, art, aid in json.load(open(os.path.join(scratch, 'pages.json')))['rows']:
+        rel = 'kit/pages/%s/%s.png' % (page, sanitize(art))
+        dst = os.path.join(repo, rel)
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        shutil.copy(os.path.join(scratch, 'pages', aid + '.png'), dst)
+        pages[(page, art)] = {'page': page, 'artboard': art, 'png': rel}
+    index['symbols'] = [symbols[k] for k in sorted(symbols)]
+    index['pages'] = list(pages.values())
+    index['exported'] = label
+    with open(os.path.join(kit, 'index.json'), 'w', encoding='utf-8') as fh:
+        json.dump(index, fh, indent=1, ensure_ascii=False)
+    print('masters', len(index['symbols']), 'artboards', len(index['pages']))
+
+
 if __name__ == '__main__':
     if sys.argv[1] == 'master':
         cmd_master(sys.argv[2], sys.argv[3])
+    elif sys.argv[1] == 'merge':
+        cmd_merge(sys.argv[2], sys.argv[3], sys.argv[4])
     elif sys.argv[1] == 'finish':
         cmd_finish(sys.argv[2], sys.argv[3], sys.argv[4])

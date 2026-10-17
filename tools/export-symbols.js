@@ -148,7 +148,7 @@ function serMaster(m) {
   return o;
 }
 
-const slice = masters.slice(START, START + COUNT);
+const slice = CFG.names ? masters.filter(function (m) { return CFG.names.indexOf(m.name) >= 0; }) : masters.slice(START, START + COUNT);
 const out = [];
 const errs = [];
 slice.forEach(function (m) {

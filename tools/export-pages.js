@@ -8,6 +8,7 @@ const errs = [];
 doc.pages.forEach(function (p) {
   if (p.name.indexOf('-----') === 0 || p.name === 'Symbols') return;
   p.canvasLevelFrames.forEach(function (l) {
+    if (CFG.only && CFG.only.indexOf(p.name + '|' + l.name) < 0) return;
     rows.push([p.name, l.name, l.id]);
     if (CFG.png) {
       try {

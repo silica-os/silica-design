@@ -15,7 +15,7 @@ kit/
   pages/<Page>/<Artboard>.png        each page artboard at 1× (component sheets, app screens)
 ```
 
-Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2793 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
+Symbol names follow `Category/Component/Variant/Size/State/Appearance` (2817 Amalfi masters, Light and Dark; local copies of library glyphs and app icons are left out — take those from silica-icons).
 
 ## JSON format
 
@@ -52,7 +52,7 @@ saved in the document. Never open another kit in the same session.
 
 1. Pick an empty scratch folder `$S` with the sub-folders `png` and `pages`.
 2. Masters, in batches of about 500 (one `run_code` call each; `start` is the offset in the name-sorted master list,
-   2793 at the time of writing). The script returns the JSON layer trees and writes the 2x PNGs, named by id, to `png`:
+   2817 at the time of writing). The script returns the JSON layer trees and writes the 2x PNGs, named by id, to `png`:
    ```js
    const sketch = require('sketch');
    const fn = require('/path/to/silica-design/tools/export-symbols.js');
@@ -73,6 +73,11 @@ saved in the document. Never open another kit in the same session.
    `kit/index.json` (masters and artboards that no longer exist disappear, new ones appear) and prints the counts.
 5. Optional format check: `python3 tools/diff_format.py $S/stage kit/symbols` (run it before step 4) lists, per file,
    the keys and values that differ from the committed export; only real design changes should show up.
+
+Partial update (a few new or changed masters and artboards): pass `names` (exact master names) to `export-symbols.js`
+and `only` (`'<Page>|<Artboard>'` strings) to `export-pages.js`, ingest as above (`ingest.sh $S b0`, `grab.py` for the
+pages), then run `python3 tools/build_kit.py merge $S . '<label>'` instead of `finish`: it adds or replaces only those
+files and keeps everything else.
 
 Notes: the bridge doubles backslashes in saved results (`grab.py` undoes it); the `svg` paths are computed in
 `kitpath.py` (Sketch continuous corners, as in figma-squircle) because Sketch's own SVG export insets paths for inside

@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (readability pass)",
+ "exported": "2026-10-17 (Clock analog, Mustache screens, Calculator tip, Preview sort)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -261,6 +261,12 @@
    "png": "kit/symbols/Apps/Calculator/Toolbar Sci/Dark@2x.png"
   },
   {
+   "name": "Apps/Calculator/Unit Picker/Dark",
+   "id": "8B8BE080-D554-42C8-AA67-E89462FCBA21",
+   "json": "kit/symbols/Apps/Calculator/Unit Picker/Dark.json",
+   "png": "kit/symbols/Apps/Calculator/Unit Picker/Dark@2x.png"
+  },
+  {
    "name": "Apps/Clock/Alarm Card Off/Dark",
    "id": "9C6A29A0-D391-4027-8CA7-2B9E4BF97516",
    "json": "kit/symbols/Apps/Clock/Alarm Card Off/Dark.json",
@@ -301,6 +307,12 @@
    "id": "5C3838C9-E4A6-411E-9ADB-95CE12A1FCDB",
    "json": "kit/symbols/Apps/Clock/City Card Night/Dark.json",
    "png": "kit/symbols/Apps/Clock/City Card Night/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Stopwatch Analog/Dark",
+   "id": "BE864CAE-2C56-4CA5-9B13-160F17EBAF75",
+   "json": "kit/symbols/Apps/Clock/Stopwatch Analog/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Stopwatch Analog/Dark@2x.png"
   },
   {
    "name": "Apps/Clock/Stopwatch Idle/Dark",
@@ -975,6 +987,42 @@
    "png": "kit/symbols/Apps/Mustache/Columns/Light@2x.png"
   },
   {
+   "name": "Apps/Mustache/Customize Folder/Dark",
+   "id": "0075DCD7-FA72-4888-A814-9E71C894CBD0",
+   "json": "kit/symbols/Apps/Mustache/Customize Folder/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Customize Folder/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Customize Folder/Light",
+   "id": "BCC2ECC6-C048-4269-A017-158A84B2F3E5",
+   "json": "kit/symbols/Apps/Mustache/Customize Folder/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Customize Folder/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Desktop/Dark",
+   "id": "ED101578-75D6-431A-B76D-41609C4C06C5",
+   "json": "kit/symbols/Apps/Mustache/Desktop/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Desktop/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Desktop/Light",
+   "id": "DF54E624-3794-49E5-B141-3944E948F407",
+   "json": "kit/symbols/Apps/Mustache/Desktop/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Desktop/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Emoji Picker/Dark",
+   "id": "4C07650F-B5E5-4689-B96B-31A65CD9CE64",
+   "json": "kit/symbols/Apps/Mustache/Emoji Picker/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Emoji Picker/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Emoji Picker/Light",
+   "id": "E39FC55C-6051-4EDE-AA85-7B493F568286",
+   "json": "kit/symbols/Apps/Mustache/Emoji Picker/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Emoji Picker/Light@2x.png"
+  },
+  {
    "name": "Apps/Mustache/Empty Folder/Dark",
    "id": "F410C729-820B-46CE-8293-F5F27B2B4E75",
    "json": "kit/symbols/Apps/Mustache/Empty Folder/Dark.json",
@@ -997,6 +1045,30 @@
    "id": "415C0F92-1AC6-45FF-87B7-BA9AE780A724",
    "json": "kit/symbols/Apps/Mustache/Gallery/Light.json",
    "png": "kit/symbols/Apps/Mustache/Gallery/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Go To Folder Sheet/Dark",
+   "id": "8CA21B48-3B41-4936-B8B3-5FDDF463F4B6",
+   "json": "kit/symbols/Apps/Mustache/Go To Folder Sheet/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Go To Folder Sheet/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Go To Folder Sheet/Light",
+   "id": "6E49C5E1-3D86-4D2C-8A7E-36DF82EE0E0C",
+   "json": "kit/symbols/Apps/Mustache/Go To Folder Sheet/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Go To Folder Sheet/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Go To Folder/Dark",
+   "id": "E0D4E6FA-1DC4-456D-9902-19E10BF78932",
+   "json": "kit/symbols/Apps/Mustache/Go To Folder/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Go To Folder/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Go To Folder/Light",
+   "id": "32EE8470-5B09-4B0F-8DE8-05217573D05B",
+   "json": "kit/symbols/Apps/Mustache/Go To Folder/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Go To Folder/Light@2x.png"
   },
   {
    "name": "Apps/Mustache/Icons Preview/Dark",
@@ -1143,6 +1215,30 @@
    "png": "kit/symbols/Apps/Mustache/Quick Preview/Light@2x.png"
   },
   {
+   "name": "Apps/Mustache/Save Search Sheet/Dark",
+   "id": "11F491E3-F3DB-49B6-B823-7413E63603D2",
+   "json": "kit/symbols/Apps/Mustache/Save Search Sheet/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Save Search Sheet/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Save Search Sheet/Light",
+   "id": "F24380A6-971A-475A-BC26-573726BABF11",
+   "json": "kit/symbols/Apps/Mustache/Save Search Sheet/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Save Search Sheet/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Save Search/Dark",
+   "id": "1C2AEC08-F732-434F-AF31-5F5C2E8E532C",
+   "json": "kit/symbols/Apps/Mustache/Save Search/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Save Search/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Save Search/Light",
+   "id": "0AF2EC13-E18E-44FB-A2D8-F9D976E7A177",
+   "json": "kit/symbols/Apps/Mustache/Save Search/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Save Search/Light@2x.png"
+  },
+  {
    "name": "Apps/Mustache/Scope Bar/Dark",
    "id": "DFC27813-87AD-43C5-92C9-F675FA4BDB90",
    "json": "kit/symbols/Apps/Mustache/Scope Bar/Dark.json",
@@ -1165,6 +1261,54 @@
    "id": "B440E25D-AFE2-4CE2-8D89-30418B496FC5",
    "json": "kit/symbols/Apps/Mustache/Search/Light.json",
    "png": "kit/symbols/Apps/Mustache/Search/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Advanced/Dark",
+   "id": "9A18EB1F-DEE8-4431-BE81-2D3ECA73F7F9",
+   "json": "kit/symbols/Apps/Mustache/Settings Advanced/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Advanced/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Advanced/Light",
+   "id": "0243DD5D-5285-41BB-B70C-0E82B63B3375",
+   "json": "kit/symbols/Apps/Mustache/Settings Advanced/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Advanced/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings General/Dark",
+   "id": "BB18C328-8CA2-436C-A783-E2B746AC2FC4",
+   "json": "kit/symbols/Apps/Mustache/Settings General/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Settings General/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings General/Light",
+   "id": "DCE92BEE-2493-4902-98A0-1E0673143BF8",
+   "json": "kit/symbols/Apps/Mustache/Settings General/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Settings General/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Sidebar/Dark",
+   "id": "544888BF-B787-403B-871F-72F51ECD8F77",
+   "json": "kit/symbols/Apps/Mustache/Settings Sidebar/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Sidebar/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Sidebar/Light",
+   "id": "CD839A8B-DB95-47A5-B21A-D586276FE48F",
+   "json": "kit/symbols/Apps/Mustache/Settings Sidebar/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Sidebar/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Tags/Dark",
+   "id": "1E65A303-E2A6-442D-9F6C-F52A13111A93",
+   "json": "kit/symbols/Apps/Mustache/Settings Tags/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Tags/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Settings Tags/Light",
+   "id": "CE09C501-388D-4B20-9E37-3264EB0C406C",
+   "json": "kit/symbols/Apps/Mustache/Settings Tags/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Settings Tags/Light@2x.png"
   },
   {
    "name": "Apps/Mustache/Sidebar/Dark",
@@ -19196,6 +19340,101 @@
    "page": "App · Screenshot",
    "artboard": "Recording control / Dark",
    "png": "kit/pages/App · Screenshot/Recording control - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, General / Light",
+   "png": "kit/pages/App · Mustache/Settings, General - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Tags / Light",
+   "png": "kit/pages/App · Mustache/Settings, Tags - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Sidebar / Light",
+   "png": "kit/pages/App · Mustache/Settings, Sidebar - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Advanced / Light",
+   "png": "kit/pages/App · Mustache/Settings, Advanced - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, General / Dark",
+   "png": "kit/pages/App · Mustache/Settings, General - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Tags / Dark",
+   "png": "kit/pages/App · Mustache/Settings, Tags - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Sidebar / Dark",
+   "png": "kit/pages/App · Mustache/Settings, Sidebar - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Settings, Advanced / Dark",
+   "png": "kit/pages/App · Mustache/Settings, Advanced - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Go to Folder sheet / Light",
+   "png": "kit/pages/App · Mustache/Go to Folder sheet - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Save Search sheet / Light",
+   "png": "kit/pages/App · Mustache/Save Search sheet - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Go to Folder sheet / Dark",
+   "png": "kit/pages/App · Mustache/Go to Folder sheet - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Save Search sheet / Dark",
+   "png": "kit/pages/App · Mustache/Save Search sheet - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Customize Folder / Light",
+   "png": "kit/pages/App · Mustache/Customize Folder - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Customize Folder / Dark",
+   "png": "kit/pages/App · Mustache/Customize Folder - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Desktop mode / Light",
+   "png": "kit/pages/App · Mustache/Desktop mode - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Desktop mode / Dark",
+   "png": "kit/pages/App · Mustache/Desktop mode - Dark.png"
+  },
+  {
+   "page": "App · Calculator",
+   "artboard": "Basic first launch / Dark",
+   "png": "kit/pages/App · Calculator/Basic first launch - Dark.png"
+  },
+  {
+   "page": "App · Calculator",
+   "artboard": "Basic with convert, unit picker / Dark",
+   "png": "kit/pages/App · Calculator/Basic with convert, unit picker - Dark.png"
+  },
+  {
+   "page": "App · Clock",
+   "artboard": "Stopwatch, analog / Dark",
+   "png": "kit/pages/App · Clock/Stopwatch, analog - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
