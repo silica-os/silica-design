@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (kit fixes f)",
+ "exported": "2026-10-17 (Clock tabs, Settings row insets)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -327,6 +327,24 @@
    "png": "kit/symbols/Apps/Clock/Stopwatch/Dark@2x.png"
   },
   {
+   "name": "Apps/Clock/Tabs Alarms/Dark",
+   "id": "A725579F-DAB5-4899-8D3A-068F59D565E2",
+   "json": "kit/symbols/Apps/Clock/Tabs Alarms/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Tabs Alarms/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Tabs Stopwatch/Dark",
+   "id": "F6216D22-A727-4915-B290-779D9A8DF0A0",
+   "json": "kit/symbols/Apps/Clock/Tabs Stopwatch/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Tabs Stopwatch/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Tabs Timers/Dark",
+   "id": "03F6B18E-60F0-4C8C-8040-A33EAC3557F3",
+   "json": "kit/symbols/Apps/Clock/Tabs Timers/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Tabs Timers/Dark@2x.png"
+  },
+  {
    "name": "Apps/Clock/Timer Picker/Dark",
    "id": "90141E04-A217-452D-9E8E-05AB721713E6",
    "json": "kit/symbols/Apps/Clock/Timer Picker/Dark.json",
@@ -337,6 +355,24 @@
    "id": "9F160F39-3877-42E8-9B9A-98B06F407B55",
    "json": "kit/symbols/Apps/Clock/Timer Running/Dark.json",
    "png": "kit/symbols/Apps/Clock/Timer Running/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Toolbar Alarms/Dark",
+   "id": "35B76382-F8AD-481B-913A-58A6FCFB0E07",
+   "json": "kit/symbols/Apps/Clock/Toolbar Alarms/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Toolbar Alarms/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Toolbar Stopwatch/Dark",
+   "id": "36730DDC-8123-44AA-AA90-0679EFA3A281",
+   "json": "kit/symbols/Apps/Clock/Toolbar Stopwatch/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Toolbar Stopwatch/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Clock/Toolbar Timers/Dark",
+   "id": "869A7392-B1BC-47C0-8794-877493EF6944",
+   "json": "kit/symbols/Apps/Clock/Toolbar Timers/Dark.json",
+   "png": "kit/symbols/Apps/Clock/Toolbar Timers/Dark@2x.png"
   },
   {
    "name": "Apps/Clock/Toolbar/Dark",
