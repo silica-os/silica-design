@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (Arancia palette, Limone Scuro glyphs)",
+ "exported": "2026-10-17 (Icons/App/16 masters, Open With app icons)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -8749,6 +8749,258 @@
    "id": "49699383-0232-4FF1-B0FA-306E445C3D63",
    "json": "kit/symbols/Group Boxes/Box/Untitled/Rest/Light.json",
    "png": "kit/symbols/Group Boxes/Box/Untitled/Rest/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Apps/Dark",
+   "id": "DB83F4D6-2298-406F-9376-539CA0087389",
+   "json": "kit/symbols/Icons/App/16/Apps/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Apps/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Apps/Light",
+   "id": "5A2811A0-1A23-4E37-AE1C-2EA8E37B2836",
+   "json": "kit/symbols/Icons/App/16/Apps/Light.json",
+   "png": "kit/symbols/Icons/App/16/Apps/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Calculator/Dark",
+   "id": "F01B36C7-D9AA-4FA9-B9A6-DBA1C461CFD5",
+   "json": "kit/symbols/Icons/App/16/Calculator/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Calculator/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Calculator/Light",
+   "id": "9DEA90B3-7EC8-410A-B314-0A0A8962F430",
+   "json": "kit/symbols/Icons/App/16/Calculator/Light.json",
+   "png": "kit/symbols/Icons/App/16/Calculator/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Calendar/Dark",
+   "id": "D60BD13B-E973-4F6A-9E98-E1E063299979",
+   "json": "kit/symbols/Icons/App/16/Calendar/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Calendar/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Calendar/Light",
+   "id": "11C0AF0D-6610-4BA1-A828-2EB21B1DBBBF",
+   "json": "kit/symbols/Icons/App/16/Calendar/Light.json",
+   "png": "kit/symbols/Icons/App/16/Calendar/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Camera/Dark",
+   "id": "9BD9AD5C-7E04-4627-93AB-86E72FE01743",
+   "json": "kit/symbols/Icons/App/16/Camera/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Camera/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Camera/Light",
+   "id": "147FD126-D2D0-4AD3-9EEE-AF4A543A1302",
+   "json": "kit/symbols/Icons/App/16/Camera/Light.json",
+   "png": "kit/symbols/Icons/App/16/Camera/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Clock/Dark",
+   "id": "22EBF43E-C7E5-4775-B1C2-CF2CF7C9B033",
+   "json": "kit/symbols/Icons/App/16/Clock/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Clock/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Clock/Light",
+   "id": "19B1F091-CDC7-40AE-9CB5-2C927DC26EC9",
+   "json": "kit/symbols/Icons/App/16/Clock/Light.json",
+   "png": "kit/symbols/Icons/App/16/Clock/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Disks/Dark",
+   "id": "BF2B5F70-0BBB-43FC-B032-09A18A1E6B41",
+   "json": "kit/symbols/Icons/App/16/Disks/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Disks/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Disks/Light",
+   "id": "3071FACA-5B04-4159-83AD-836F98537C1C",
+   "json": "kit/symbols/Icons/App/16/Disks/Light.json",
+   "png": "kit/symbols/Icons/App/16/Disks/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Fonts/Dark",
+   "id": "2737320F-256D-4779-AB60-18709C062083",
+   "json": "kit/symbols/Icons/App/16/Fonts/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Fonts/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Fonts/Light",
+   "id": "62A8E31D-FC85-4DA3-BCFC-DC2A468B0C5A",
+   "json": "kit/symbols/Icons/App/16/Fonts/Light.json",
+   "png": "kit/symbols/Icons/App/16/Fonts/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mail/Dark",
+   "id": "B133BA34-EE5B-47FD-B533-F67A5ACD101F",
+   "json": "kit/symbols/Icons/App/16/Mail/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Mail/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mail/Light",
+   "id": "2A7571D1-CFA3-4935-8B84-A782D37AE857",
+   "json": "kit/symbols/Icons/App/16/Mail/Light.json",
+   "png": "kit/symbols/Icons/App/16/Mail/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Messages/Dark",
+   "id": "DC7B6F02-D66F-4CA3-B1BB-073642DF513C",
+   "json": "kit/symbols/Icons/App/16/Messages/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Messages/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Messages/Light",
+   "id": "B3BA75D0-15C1-48BD-A818-CF6B68C9202C",
+   "json": "kit/symbols/Icons/App/16/Messages/Light.json",
+   "png": "kit/symbols/Icons/App/16/Messages/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mission Control/Dark",
+   "id": "26034B79-C00F-45C0-B6FE-0ACAC5367AB2",
+   "json": "kit/symbols/Icons/App/16/Mission Control/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Mission Control/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mission Control/Light",
+   "id": "2C5967BF-0524-4B97-BD98-1EF44AA80478",
+   "json": "kit/symbols/Icons/App/16/Mission Control/Light.json",
+   "png": "kit/symbols/Icons/App/16/Mission Control/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Music/Dark",
+   "id": "668B3CEE-F9CD-4639-AD63-88CAF485FB0B",
+   "json": "kit/symbols/Icons/App/16/Music/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Music/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Music/Light",
+   "id": "69409DF1-22C6-4EC1-B5D4-C4D603BB9594",
+   "json": "kit/symbols/Icons/App/16/Music/Light.json",
+   "png": "kit/symbols/Icons/App/16/Music/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mustache/Dark",
+   "id": "08909308-9CB8-4F0E-ADF9-A70AEDD228CA",
+   "json": "kit/symbols/Icons/App/16/Mustache/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Mustache/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Mustache/Light",
+   "id": "9762FB12-7039-4177-90B7-8A4AC7CF7A81",
+   "json": "kit/symbols/Icons/App/16/Mustache/Light.json",
+   "png": "kit/symbols/Icons/App/16/Mustache/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Notes/Dark",
+   "id": "975F0C84-6316-4ED8-BC4B-4AEB4C971020",
+   "json": "kit/symbols/Icons/App/16/Notes/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Notes/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Notes/Light",
+   "id": "3058573C-717D-42A7-B53F-5FD1B3871EC2",
+   "json": "kit/symbols/Icons/App/16/Notes/Light.json",
+   "png": "kit/symbols/Icons/App/16/Notes/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Password Manager/Dark",
+   "id": "F89DEC06-FE26-4F00-BC87-7CA507361DD3",
+   "json": "kit/symbols/Icons/App/16/Password Manager/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Password Manager/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Password Manager/Light",
+   "id": "B5B8522C-5981-48CD-B97A-F8FA71CAD207",
+   "json": "kit/symbols/Icons/App/16/Password Manager/Light.json",
+   "png": "kit/symbols/Icons/App/16/Password Manager/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Photo Viewer/Dark",
+   "id": "D98FA6F0-0E46-4549-B011-BBB45ECC7485",
+   "json": "kit/symbols/Icons/App/16/Photo Viewer/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Photo Viewer/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Photo Viewer/Light",
+   "id": "83235F01-AD67-4C27-BBEF-3ABBC43CF38C",
+   "json": "kit/symbols/Icons/App/16/Photo Viewer/Light.json",
+   "png": "kit/symbols/Icons/App/16/Photo Viewer/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Photos/Dark",
+   "id": "40546D6A-7FDA-4444-9703-5B9E80332133",
+   "json": "kit/symbols/Icons/App/16/Photos/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Photos/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Photos/Light",
+   "id": "0E7C2E07-5E01-43C8-8DCE-D29D58D62827",
+   "json": "kit/symbols/Icons/App/16/Photos/Light.json",
+   "png": "kit/symbols/Icons/App/16/Photos/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Reminders/Dark",
+   "id": "934E67EF-EAA7-4E82-A83B-B66AC2FBB30C",
+   "json": "kit/symbols/Icons/App/16/Reminders/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Reminders/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Reminders/Light",
+   "id": "FFF0BA75-6895-4643-8785-4D1B2185BC69",
+   "json": "kit/symbols/Icons/App/16/Reminders/Light.json",
+   "png": "kit/symbols/Icons/App/16/Reminders/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Screenshot/Dark",
+   "id": "0217E9E7-DDA2-4489-855B-2B08909581D7",
+   "json": "kit/symbols/Icons/App/16/Screenshot/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Screenshot/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Screenshot/Light",
+   "id": "2C660F71-6C1D-4D17-9283-5E4B8806D88B",
+   "json": "kit/symbols/Icons/App/16/Screenshot/Light.json",
+   "png": "kit/symbols/Icons/App/16/Screenshot/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Settings/Dark",
+   "id": "0323260B-0DAB-44F0-BC83-1C52FE3888DF",
+   "json": "kit/symbols/Icons/App/16/Settings/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Settings/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Settings/Light",
+   "id": "10B602EE-9358-4FFF-935C-26CC4CFC8E08",
+   "json": "kit/symbols/Icons/App/16/Settings/Light.json",
+   "png": "kit/symbols/Icons/App/16/Settings/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Terminal/Dark",
+   "id": "A2D415F2-6F4C-466E-8E13-E41D27F63EF0",
+   "json": "kit/symbols/Icons/App/16/Terminal/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Terminal/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Terminal/Light",
+   "id": "721BA285-DB0C-43B6-8D2C-C6751E7EE6B2",
+   "json": "kit/symbols/Icons/App/16/Terminal/Light.json",
+   "png": "kit/symbols/Icons/App/16/Terminal/Light@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Text Editor/Dark",
+   "id": "5DBFF811-9BFA-49D0-A100-B93417CE3319",
+   "json": "kit/symbols/Icons/App/16/Text Editor/Dark.json",
+   "png": "kit/symbols/Icons/App/16/Text Editor/Dark@2x.png"
+  },
+  {
+   "name": "Icons/App/16/Text Editor/Light",
+   "id": "55DE9880-9A29-4D24-B0B9-57D69E89F637",
+   "json": "kit/symbols/Icons/App/16/Text Editor/Light.json",
+   "png": "kit/symbols/Icons/App/16/Text Editor/Light@2x.png"
   },
   {
    "name": "Menu Bar/Bar/Closed/Rest/Dark",
