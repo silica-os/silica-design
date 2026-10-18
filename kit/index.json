@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-18 (Lock Screen rework, Status Bar)",
+ "exported": "Terminal settings window",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -4105,6 +4105,54 @@
    "id": "06A7DBE4-900F-433B-91E5-D32BE4B0AE9F",
    "json": "kit/symbols/Apps/Terminal/Session/Light.json",
    "png": "kit/symbols/Apps/Terminal/Session/Light@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Preview/Dark",
+   "id": "9A83CD34-31EF-48B2-AA7B-C6F00D5D4858",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Preview/Dark.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Preview/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Preview/Light",
+   "id": "30325C1B-CFF5-4F28-A134-3FEFE3F1102B",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Preview/Light.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Preview/Light@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Row/Rest/Dark",
+   "id": "DD1641AB-4893-408C-ABAE-13D2932FC3FA",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Row/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Row/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Row/Rest/Light",
+   "id": "FD3FBB4A-44B1-47A7-A481-315BDB5D8AE9",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Row/Rest/Light.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Row/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Row/Selected/Dark",
+   "id": "CEA33917-221D-4311-8829-FCCF8916FD32",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Dark.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Row/Selected/Light",
+   "id": "BF286D77-B48B-42FC-82C8-7DA498EEA396",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Light.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Light@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Tabs/Dark",
+   "id": "23B82057-043F-4F69-B037-774EC0DF6C66",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Dark.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Terminal/Settings/Profile Tabs/Light",
+   "id": "D6BA22E1-E45B-4190-A10E-33F93830C0CD",
+   "json": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Light.json",
+   "png": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Light@2x.png"
   },
   {
    "name": "Apps/Terminal/Split/Dark",
@@ -21291,6 +21339,96 @@
    "page": "Status Bar",
    "artboard": "About / Status Bar",
    "png": "kit/pages/Status Bar/About - Status Bar.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / General / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - General - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Encodings / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Encodings - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Encodings / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Encodings - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Window Groups / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Window Groups - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Window Groups / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Window Groups - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Text / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Text - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Text / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Text - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Advanced / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Advanced - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Advanced / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Advanced - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Keyboard / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Keyboard - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Keyboard / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Keyboard - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Shell / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Shell - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Shell / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Shell - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Tab / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Tab - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Tab / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Tab - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Window / Light",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Window - Light.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / Profiles / Window / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - Profiles - Window - Dark.png"
+  },
+  {
+   "page": "App · Terminal",
+   "artboard": "Terminal / Settings / General / Dark",
+   "png": "kit/pages/App · Terminal/Terminal - Settings - General - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
