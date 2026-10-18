@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-18 (pop-up and pull-down open placement)",
+ "exported": "2026-10-18 (Lock Screen rework, Status Bar)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -9021,6 +9021,24 @@
    "png": "kit/symbols/Lock Screen/Clock/Increase Contrast/Dark@2x.png"
   },
   {
+   "name": "Lock Screen/Clock/Increase Contrast/Light",
+   "id": "906898C8-6440-462F-BB50-E24E6FABBFFC",
+   "json": "kit/symbols/Lock Screen/Clock/Increase Contrast/Light.json",
+   "png": "kit/symbols/Lock Screen/Clock/Increase Contrast/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Clock/Reduce Transparency/Dark",
+   "id": "42BDE8AE-986F-4C8E-8B23-B81873E50991",
+   "json": "kit/symbols/Lock Screen/Clock/Reduce Transparency/Dark.json",
+   "png": "kit/symbols/Lock Screen/Clock/Reduce Transparency/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Clock/Reduce Transparency/Light",
+   "id": "13AD4421-609E-418A-8A60-C2975F75FF7B",
+   "json": "kit/symbols/Lock Screen/Clock/Reduce Transparency/Light.json",
+   "png": "kit/symbols/Lock Screen/Clock/Reduce Transparency/Light@2x.png"
+  },
+  {
    "name": "Lock Screen/Clock/Standard/Dark",
    "id": "CAA24AA0-FC61-4871-9333-BD17C051642E",
    "json": "kit/symbols/Lock Screen/Clock/Standard/Dark.json",
@@ -9049,6 +9067,24 @@
    "id": "9919B0A2-4C15-4FE4-9963-6947960F428B",
    "json": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Dark.json",
    "png": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Increase Contrast/Light",
+   "id": "8319F8DC-A7F1-46EE-ACB5-9C32B8E7C2F7",
+   "json": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Light.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Reduce Transparency/Dark",
+   "id": "BD9791CD-C749-4086-A45A-5C8774E959C3",
+   "json": "kit/symbols/Lock Screen/Help Button/Reduce Transparency/Dark.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Reduce Transparency/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Reduce Transparency/Light",
+   "id": "E641195A-3121-44D6-A8B1-272FB3D97E73",
+   "json": "kit/symbols/Lock Screen/Help Button/Reduce Transparency/Light.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Reduce Transparency/Light@2x.png"
   },
   {
    "name": "Lock Screen/Help Button/Rest/Dark",
@@ -9091,6 +9127,24 @@
    "id": "2D8416D0-6C24-467C-8BB5-4C6CBD6283E4",
    "json": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Dark.json",
    "png": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder Increase Contrast/Light",
+   "id": "3251610B-1588-4459-ACF4-945310F87272",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder Reduce Transparency/Dark",
+   "id": "36050BBC-AEB3-467A-96F0-8388C922941E",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder Reduce Transparency/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder Reduce Transparency/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder Reduce Transparency/Light",
+   "id": "B4047877-C201-466F-9E6E-C5CE3521C770",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder Reduce Transparency/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder Reduce Transparency/Light@2x.png"
   },
   {
    "name": "Lock Screen/Password Field/Placeholder/Dark",
@@ -9153,18 +9207,6 @@
    "png": "kit/symbols/Lock Screen/Power Buttons/Provisional/Light@2x.png"
   },
   {
-   "name": "Lock Screen/Status Items/Default/Dark",
-   "id": "4500D885-CBD8-4A56-A3CC-21CA3D7291BD",
-   "json": "kit/symbols/Lock Screen/Status Items/Default/Dark.json",
-   "png": "kit/symbols/Lock Screen/Status Items/Default/Dark@2x.png"
-  },
-  {
-   "name": "Lock Screen/Status Items/Default/Light",
-   "id": "089FFEB2-65A7-449D-83F5-AFF2F362DB37",
-   "json": "kit/symbols/Lock Screen/Status Items/Default/Light.json",
-   "png": "kit/symbols/Lock Screen/Status Items/Default/Light@2x.png"
-  },
-  {
    "name": "Lock Screen/User/Default/Dark",
    "id": "30EE7871-395D-46EE-BC20-4A8C73B8B770",
    "json": "kit/symbols/Lock Screen/User/Default/Dark.json",
@@ -9175,6 +9217,18 @@
    "id": "AE3627E3-01BE-4D76-A118-F45D18F7F169",
    "json": "kit/symbols/Lock Screen/User/Default/Light.json",
    "png": "kit/symbols/Lock Screen/User/Default/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/User/Increase Contrast/Dark",
+   "id": "8902D21A-0244-4662-8470-7369C7C20F2A",
+   "json": "kit/symbols/Lock Screen/User/Increase Contrast/Dark.json",
+   "png": "kit/symbols/Lock Screen/User/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/User/Increase Contrast/Light",
+   "id": "5D6213B8-799D-4DFC-BD0F-709DCEC37E42",
+   "json": "kit/symbols/Lock Screen/User/Increase Contrast/Light.json",
+   "png": "kit/symbols/Lock Screen/User/Increase Contrast/Light@2x.png"
   },
   {
    "name": "Menu Bar/Bar/Closed/Rest/Dark",
@@ -9199,18 +9253,6 @@
    "id": "C80F36C7-5840-41DF-9201-166E40428EB1",
    "json": "kit/symbols/Menu Bar/Bar/Menu Open/Rest/Light.json",
    "png": "kit/symbols/Menu Bar/Bar/Menu Open/Rest/Light@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Clock/Rest/Dark",
-   "id": "303279E2-15D2-4655-B3A1-AEE163557428",
-   "json": "kit/symbols/Menu Bar/Item/Clock/Rest/Dark.json",
-   "png": "kit/symbols/Menu Bar/Item/Clock/Rest/Dark@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Clock/Rest/Light",
-   "id": "5F422D98-52FB-43F8-BF43-E3F2709AE762",
-   "json": "kit/symbols/Menu Bar/Item/Clock/Rest/Light.json",
-   "png": "kit/symbols/Menu Bar/Item/Clock/Rest/Light@2x.png"
   },
   {
    "name": "Menu Bar/Item/Menu/Active/Dark",
@@ -9247,30 +9289,6 @@
    "id": "1B91AB3C-43A4-4C36-A788-358EFB8E8298",
    "json": "kit/symbols/Menu Bar/Item/Name/Rest/Light.json",
    "png": "kit/symbols/Menu Bar/Item/Name/Rest/Light@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Status/Active/Dark",
-   "id": "58893940-2E79-4EC9-A00C-744B7A192751",
-   "json": "kit/symbols/Menu Bar/Item/Status/Active/Dark.json",
-   "png": "kit/symbols/Menu Bar/Item/Status/Active/Dark@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Status/Active/Light",
-   "id": "1E93465F-E933-4C51-AB65-FF2C49F8CAC7",
-   "json": "kit/symbols/Menu Bar/Item/Status/Active/Light.json",
-   "png": "kit/symbols/Menu Bar/Item/Status/Active/Light@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Status/Rest/Dark",
-   "id": "BE3DBD04-B2C7-4B5B-810D-A31385F4578E",
-   "json": "kit/symbols/Menu Bar/Item/Status/Rest/Dark.json",
-   "png": "kit/symbols/Menu Bar/Item/Status/Rest/Dark@2x.png"
-  },
-  {
-   "name": "Menu Bar/Item/Status/Rest/Light",
-   "id": "7656E8B6-7987-4C18-832A-4FF6D5CB1C8F",
-   "json": "kit/symbols/Menu Bar/Item/Status/Rest/Light.json",
-   "png": "kit/symbols/Menu Bar/Item/Status/Rest/Light@2x.png"
   },
   {
    "name": "Menus/Item/Checkmark/Highlighted/Dark",
@@ -14431,6 +14449,138 @@
    "id": "1D1E828F-F238-4481-8C94-8CFC5BD3E97F",
    "json": "kit/symbols/Sliders/Vertical/Plain/Rest/Light.json",
    "png": "kit/symbols/Sliders/Vertical/Plain/Rest/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Default/Dark",
+   "id": "4500D885-CBD8-4A56-A3CC-21CA3D7291BD",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Default/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Default/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Default/Light",
+   "id": "089FFEB2-65A7-449D-83F5-AFF2F362DB37",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Default/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Default/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Increase Contrast/Dark",
+   "id": "21AA7173-6FEC-4AA9-89CA-14B08F6AD426",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Increase Contrast/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Increase Contrast/Light",
+   "id": "B8489DBF-CF17-44E2-AB64-23678DE20036",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Increase Contrast/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Increase Contrast/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Reduce Transparency/Dark",
+   "id": "465B9629-1A5A-4151-BCF1-B2C1235C1793",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Reduce Transparency/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Reduce Transparency/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Lock Screen/Reduce Transparency/Light",
+   "id": "71BF870C-C081-4D0A-B0BB-C6EBACA4A3A3",
+   "json": "kit/symbols/Status Bar/Bar/Lock Screen/Reduce Transparency/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Lock Screen/Reduce Transparency/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Default/Dark",
+   "id": "53D2486C-3248-421E-AE18-C8949E4A4C0C",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Default/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Default/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Default/Light",
+   "id": "8CE3794B-BFF4-48CF-9FA3-DBD094DE8479",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Default/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Default/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Increase Contrast/Dark",
+   "id": "FA03B2EC-A1C4-4C9B-A906-7F6B8C19CCF8",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Increase Contrast/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Increase Contrast/Light",
+   "id": "F4E45965-4215-49F4-B5A1-3315C44D00E4",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Increase Contrast/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Increase Contrast/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Reduce Transparency/Dark",
+   "id": "37E13553-790F-4FD2-84A2-058C09E7A147",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Reduce Transparency/Dark.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Reduce Transparency/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Bar/Menu Bar/Reduce Transparency/Light",
+   "id": "C7D2BF19-E752-4452-B2DA-9EA7019EB5E1",
+   "json": "kit/symbols/Status Bar/Bar/Menu Bar/Reduce Transparency/Light.json",
+   "png": "kit/symbols/Status Bar/Bar/Menu Bar/Reduce Transparency/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Battery/Rest/Dark",
+   "id": "D54569A4-2544-4030-8587-574441A5CBC9",
+   "json": "kit/symbols/Status Bar/Item/Battery/Rest/Dark.json",
+   "png": "kit/symbols/Status Bar/Item/Battery/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Battery/Rest/Light",
+   "id": "21CF0C3D-BAE5-47E2-A367-746B255D040A",
+   "json": "kit/symbols/Status Bar/Item/Battery/Rest/Light.json",
+   "png": "kit/symbols/Status Bar/Item/Battery/Rest/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Clock/Rest/Dark",
+   "id": "303279E2-15D2-4655-B3A1-AEE163557428",
+   "json": "kit/symbols/Status Bar/Item/Clock/Rest/Dark.json",
+   "png": "kit/symbols/Status Bar/Item/Clock/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Clock/Rest/Light",
+   "id": "5F422D98-52FB-43F8-BF43-E3F2709AE762",
+   "json": "kit/symbols/Status Bar/Item/Clock/Rest/Light.json",
+   "png": "kit/symbols/Status Bar/Item/Clock/Rest/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Glyph/Active/Dark",
+   "id": "58893940-2E79-4EC9-A00C-744B7A192751",
+   "json": "kit/symbols/Status Bar/Item/Glyph/Active/Dark.json",
+   "png": "kit/symbols/Status Bar/Item/Glyph/Active/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Glyph/Active/Light",
+   "id": "1E93465F-E933-4C51-AB65-FF2C49F8CAC7",
+   "json": "kit/symbols/Status Bar/Item/Glyph/Active/Light.json",
+   "png": "kit/symbols/Status Bar/Item/Glyph/Active/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Glyph/Rest/Dark",
+   "id": "BE3DBD04-B2C7-4B5B-810D-A31385F4578E",
+   "json": "kit/symbols/Status Bar/Item/Glyph/Rest/Dark.json",
+   "png": "kit/symbols/Status Bar/Item/Glyph/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Glyph/Rest/Light",
+   "id": "7656E8B6-7987-4C18-832A-4FF6D5CB1C8F",
+   "json": "kit/symbols/Status Bar/Item/Glyph/Rest/Light.json",
+   "png": "kit/symbols/Status Bar/Item/Glyph/Rest/Light@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Input Source/Rest/Dark",
+   "id": "C162784B-E809-407C-82F8-8DDDAE71EE52",
+   "json": "kit/symbols/Status Bar/Item/Input Source/Rest/Dark.json",
+   "png": "kit/symbols/Status Bar/Item/Input Source/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Status Bar/Item/Input Source/Rest/Light",
+   "id": "075CD944-DD18-49CE-9DC5-0B86B7610E02",
+   "json": "kit/symbols/Status Bar/Item/Input Source/Rest/Light.json",
+   "png": "kit/symbols/Status Bar/Item/Input Source/Rest/Light@2x.png"
   },
   {
    "name": "Steppers/Stepper/Large/Disabled/Dark",
@@ -21079,16 +21229,6 @@
   },
   {
    "page": "Lock Screen",
-   "artboard": "Default (provisional) / Light",
-   "png": "kit/pages/Lock Screen/Default (provisional) - Light.png"
-  },
-  {
-   "page": "Lock Screen",
-   "artboard": "Increase contrast (provisional) / Dark",
-   "png": "kit/pages/Lock Screen/Increase contrast (provisional) - Dark.png"
-  },
-  {
-   "page": "Lock Screen",
    "artboard": "Default 2560 × 1440 / Dark",
    "png": "kit/pages/Lock Screen/Default 2560 × 1440 - Dark.png"
   },
@@ -21106,6 +21246,51 @@
    "page": "Lock Screen",
    "artboard": "About / Lock Screen",
    "png": "kit/pages/Lock Screen/About - Lock Screen.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Verifying / Dark",
+   "png": "kit/pages/Lock Screen/Verifying - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Default / Light",
+   "png": "kit/pages/Lock Screen/Default - Light.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Reduce transparency / Light",
+   "png": "kit/pages/Lock Screen/Reduce transparency - Light.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Increase contrast / Light",
+   "png": "kit/pages/Lock Screen/Increase contrast - Light.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Increase contrast / Dark",
+   "png": "kit/pages/Lock Screen/Increase contrast - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Reduce transparency / Dark",
+   "png": "kit/pages/Lock Screen/Reduce transparency - Dark.png"
+  },
+  {
+   "page": "Status Bar",
+   "artboard": "Status Bar / Light",
+   "png": "kit/pages/Status Bar/Status Bar - Light.png"
+  },
+  {
+   "page": "Status Bar",
+   "artboard": "Status Bar / Dark",
+   "png": "kit/pages/Status Bar/Status Bar - Dark.png"
+  },
+  {
+   "page": "Status Bar",
+   "artboard": "About / Status Bar",
+   "png": "kit/pages/Status Bar/About - Status Bar.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
