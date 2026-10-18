@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "Terminal settings window",
+ "exported": "2026-10-19 (Settings Tabs, six-segment control)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -4141,18 +4141,6 @@
    "id": "BF286D77-B48B-42FC-82C8-7DA498EEA396",
    "json": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Light.json",
    "png": "kit/symbols/Apps/Terminal/Settings/Profile Row/Selected/Light@2x.png"
-  },
-  {
-   "name": "Apps/Terminal/Settings/Profile Tabs/Dark",
-   "id": "23B82057-043F-4F69-B037-774EC0DF6C66",
-   "json": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Dark.json",
-   "png": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Dark@2x.png"
-  },
-  {
-   "name": "Apps/Terminal/Settings/Profile Tabs/Light",
-   "id": "D6BA22E1-E45B-4190-A10E-33F93830C0CD",
-   "json": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Light.json",
-   "png": "kit/symbols/Apps/Terminal/Settings/Profile Tabs/Light@2x.png"
   },
   {
    "name": "Apps/Terminal/Split/Dark",
@@ -13515,6 +13503,126 @@
    "png": "kit/symbols/Segments/Control/One 5 Text/Small/Rest/Light@2x.png"
   },
   {
+   "name": "Segments/Control/One 6 Text/Large/Disabled/Dark",
+   "id": "679A0BFD-DA0A-4E00-A83E-614E724CBCE9",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Disabled/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Large/Disabled/Light",
+   "id": "6F603DA3-C204-44CE-B680-0EF8FCF767B5",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Disabled/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Large/Pressed/Dark",
+   "id": "AF4DA22F-9B6D-467A-99CA-B0BE3687F7FB",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Pressed/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Pressed/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Large/Pressed/Light",
+   "id": "9352869F-191D-4603-BDCC-A00F399DC45F",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Pressed/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Pressed/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Large/Rest/Dark",
+   "id": "C28897DE-278C-4C52-BA9E-9941197EB799",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Rest/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Large/Rest/Light",
+   "id": "FEB3B9C6-BA2B-4BCB-B64D-CA1EDCCD77F0",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Large/Rest/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Large/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Mini/Rest/Dark",
+   "id": "BCCE5EF5-EA6F-4B0F-B1DE-90C4A0ED3176",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Mini/Rest/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Mini/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Mini/Rest/Light",
+   "id": "36067ACE-2197-4568-BC89-12A6F6B94959",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Mini/Rest/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Mini/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Disabled/Dark",
+   "id": "D43870F9-4561-4598-AC7E-551C7993AD99",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Disabled/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Disabled/Light",
+   "id": "D122BA9D-0B52-4902-84FC-5A307AB1CBA4",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Disabled/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Pressed/Dark",
+   "id": "736ED594-CC97-4294-8D88-BDC809558F6F",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Pressed/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Pressed/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Pressed/Light",
+   "id": "003EDF6A-C8F6-45A1-8865-9C812DF1460E",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Pressed/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Pressed/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Rest/Dark",
+   "id": "9FF9F68D-9655-4C6D-8CF4-ADB3A1799869",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Rest/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Regular/Rest/Light",
+   "id": "90B93107-DEB0-4759-8B4D-FB752B3CF968",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Regular/Rest/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Regular/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Disabled/Dark",
+   "id": "B539717B-7D1C-490D-A3C2-C5C8B63EF085",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Disabled/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Disabled/Light",
+   "id": "8C212CF4-DDA6-468A-BE23-94EA8BB5F1AC",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Disabled/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Pressed/Dark",
+   "id": "2A02E268-47E1-4F0F-BD01-F01B17D4864E",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Pressed/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Pressed/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Pressed/Light",
+   "id": "8D9D6E59-913A-4A8C-957C-A93B9D7A4FCE",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Pressed/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Pressed/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Rest/Dark",
+   "id": "8931FB72-6EED-46F1-AE8A-87BD89BB0B21",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Text/Small/Rest/Light",
+   "id": "805F4E87-7799-47F0-B58D-7C2231E82FDA",
+   "json": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Light@2x.png"
+  },
+  {
    "name": "Segments/Icon Item/Large/Disabled/Dark",
    "id": "1F3AC2CF-3CCB-4EDB-B2B4-061527C3E3E8",
    "json": "kit/symbols/Segments/Icon Item/Large/Disabled/Dark.json",
@@ -13897,6 +14005,138 @@
    "id": "C855913A-70E1-48C1-A285-6584FB2E84A6",
    "json": "kit/symbols/Segments/Text Item/Small/Selected/Light.json",
    "png": "kit/symbols/Segments/Text Item/Small/Selected/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/2 Panes/Dark",
+   "id": "21661700-17CD-4287-9397-59298034BEC7",
+   "json": "kit/symbols/Settings Tabs/Bar/2 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/2 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/2 Panes/Light",
+   "id": "4861A8CF-510A-46A9-9318-9028AE297226",
+   "json": "kit/symbols/Settings Tabs/Bar/2 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/2 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/3 Panes/Dark",
+   "id": "57B0E7AC-B0F8-4B3F-8F81-C99D42F6FD09",
+   "json": "kit/symbols/Settings Tabs/Bar/3 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/3 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/3 Panes/Light",
+   "id": "5F3E2EA4-4564-420B-9574-93FAB6DFEFB6",
+   "json": "kit/symbols/Settings Tabs/Bar/3 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/3 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/4 Panes/Dark",
+   "id": "DEA304BE-E730-4FAD-9189-9C0B212BEF0A",
+   "json": "kit/symbols/Settings Tabs/Bar/4 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/4 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/4 Panes/Light",
+   "id": "56F3A426-5A2E-49F9-862A-9C3736A0C0E1",
+   "json": "kit/symbols/Settings Tabs/Bar/4 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/4 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/5 Panes/Dark",
+   "id": "F2A38F18-D4E4-45AE-A723-66FF105864AC",
+   "json": "kit/symbols/Settings Tabs/Bar/5 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/5 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/5 Panes/Light",
+   "id": "90D5E659-2810-4F02-8C5A-71A3461F2153",
+   "json": "kit/symbols/Settings Tabs/Bar/5 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/5 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/6 Panes/Dark",
+   "id": "E8B9ADBF-8F1E-4947-808A-1022A4CF83BD",
+   "json": "kit/symbols/Settings Tabs/Bar/6 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/6 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/6 Panes/Light",
+   "id": "32190707-E4CB-477F-A6B2-0A1A3C052F28",
+   "json": "kit/symbols/Settings Tabs/Bar/6 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/6 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/7 Panes/Dark",
+   "id": "352F4DF2-002A-47CD-ACFF-A58E30C4E2F0",
+   "json": "kit/symbols/Settings Tabs/Bar/7 Panes/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Bar/7 Panes/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Bar/7 Panes/Light",
+   "id": "C87CA1BF-16B1-4D05-A0F8-F98958883643",
+   "json": "kit/symbols/Settings Tabs/Bar/7 Panes/Light.json",
+   "png": "kit/symbols/Settings Tabs/Bar/7 Panes/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Disabled/Dark",
+   "id": "FBEA5195-8B5A-4255-8541-AA45E60F7BEC",
+   "json": "kit/symbols/Settings Tabs/Item/Disabled/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Item/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Disabled/Light",
+   "id": "E75EED32-56E8-4CA2-9669-D1F4603F9AA4",
+   "json": "kit/symbols/Settings Tabs/Item/Disabled/Light.json",
+   "png": "kit/symbols/Settings Tabs/Item/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Hover/Dark",
+   "id": "4EA42B2E-2444-4440-B751-E8C428E56E3B",
+   "json": "kit/symbols/Settings Tabs/Item/Hover/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Item/Hover/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Hover/Light",
+   "id": "202655AA-7D53-47AB-A182-40B0D6AC2426",
+   "json": "kit/symbols/Settings Tabs/Item/Hover/Light.json",
+   "png": "kit/symbols/Settings Tabs/Item/Hover/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Pressed/Dark",
+   "id": "61D97A53-431B-49E7-96F4-C2DB31E81AC1",
+   "json": "kit/symbols/Settings Tabs/Item/Pressed/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Item/Pressed/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Pressed/Light",
+   "id": "5407EB26-F195-4D65-B9FF-4BBA5F7E0236",
+   "json": "kit/symbols/Settings Tabs/Item/Pressed/Light.json",
+   "png": "kit/symbols/Settings Tabs/Item/Pressed/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Rest/Dark",
+   "id": "1D52EFD0-B595-45FB-848B-DE96A9B72441",
+   "json": "kit/symbols/Settings Tabs/Item/Rest/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Item/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Rest/Light",
+   "id": "9BF4B7C0-9698-45DD-AAC4-B65DC7327592",
+   "json": "kit/symbols/Settings Tabs/Item/Rest/Light.json",
+   "png": "kit/symbols/Settings Tabs/Item/Rest/Light@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Selected/Dark",
+   "id": "1E9A1B7A-CB5A-4660-A743-6854B8FD198D",
+   "json": "kit/symbols/Settings Tabs/Item/Selected/Dark.json",
+   "png": "kit/symbols/Settings Tabs/Item/Selected/Dark@2x.png"
+  },
+  {
+   "name": "Settings Tabs/Item/Selected/Light",
+   "id": "9F027206-6D75-46D7-97C0-3708AEA45E42",
+   "json": "kit/symbols/Settings Tabs/Item/Selected/Light.json",
+   "png": "kit/symbols/Settings Tabs/Item/Selected/Light@2x.png"
   },
   {
    "name": "Sidebars/Badge/Rest/Dark",
@@ -21429,6 +21669,26 @@
    "page": "App · Terminal",
    "artboard": "Terminal / Settings / General / Dark",
    "png": "kit/pages/App · Terminal/Terminal - Settings - General - Dark.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Settings tabs / Light",
+   "png": "kit/pages/Segmented Controls/Settings tabs - Light.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Settings tabs / Dark",
+   "png": "kit/pages/Segmented Controls/Settings tabs - Dark.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Segmented control, six text segments / Light",
+   "png": "kit/pages/Segmented Controls/Segmented control, six text segments - Light.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Segmented control, six text segments / Dark",
+   "png": "kit/pages/Segmented Controls/Segmented control, six text segments - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
