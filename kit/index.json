@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-17 (cascade overlap 4)",
+ "exported": "2026-10-18 (lock screen)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -9001,6 +9001,180 @@
    "id": "55DE9880-9A29-4D24-B0B9-57D69E89F637",
    "json": "kit/symbols/Icons/App/16/Text Editor/Light.json",
    "png": "kit/symbols/Icons/App/16/Text Editor/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Action Button/Rest/Dark",
+   "id": "15314965-98E9-48F4-9527-63B064E20FD0",
+   "json": "kit/symbols/Lock Screen/Action Button/Rest/Dark.json",
+   "png": "kit/symbols/Lock Screen/Action Button/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Action Button/Rest/Light",
+   "id": "0183099D-56AD-4C02-8FC5-90F6108899A3",
+   "json": "kit/symbols/Lock Screen/Action Button/Rest/Light.json",
+   "png": "kit/symbols/Lock Screen/Action Button/Rest/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Clock/Increase Contrast/Dark",
+   "id": "A6C7C481-6645-444F-A07C-A89C63F66F1C",
+   "json": "kit/symbols/Lock Screen/Clock/Increase Contrast/Dark.json",
+   "png": "kit/symbols/Lock Screen/Clock/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Clock/Standard/Dark",
+   "id": "CAA24AA0-FC61-4871-9333-BD17C051642E",
+   "json": "kit/symbols/Lock Screen/Clock/Standard/Dark.json",
+   "png": "kit/symbols/Lock Screen/Clock/Standard/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Clock/Standard/Light",
+   "id": "5599CA48-FA6C-4C78-80EE-E33AC0289236",
+   "json": "kit/symbols/Lock Screen/Clock/Standard/Light.json",
+   "png": "kit/symbols/Lock Screen/Clock/Standard/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Address/Rest/Dark",
+   "id": "248A8A06-7F8C-401C-B306-AE91479C78F1",
+   "json": "kit/symbols/Lock Screen/Help Address/Rest/Dark.json",
+   "png": "kit/symbols/Lock Screen/Help Address/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Address/Rest/Light",
+   "id": "15D725D1-24A5-4777-86F9-8552C271A533",
+   "json": "kit/symbols/Lock Screen/Help Address/Rest/Light.json",
+   "png": "kit/symbols/Lock Screen/Help Address/Rest/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Increase Contrast/Dark",
+   "id": "9919B0A2-4C15-4FE4-9963-6947960F428B",
+   "json": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Dark.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Rest/Dark",
+   "id": "A18DC767-706C-4E00-AF48-B2CE823F04DE",
+   "json": "kit/symbols/Lock Screen/Help Button/Rest/Dark.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Help Button/Rest/Light",
+   "id": "ECA96A53-2204-48CA-9FBC-B45A4E921969",
+   "json": "kit/symbols/Lock Screen/Help Button/Rest/Light.json",
+   "png": "kit/symbols/Lock Screen/Help Button/Rest/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Hint/Default/Dark",
+   "id": "FA3193BB-1412-4DC2-BAA8-551191920E64",
+   "json": "kit/symbols/Lock Screen/Hint/Default/Dark.json",
+   "png": "kit/symbols/Lock Screen/Hint/Default/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Hint/Default/Light",
+   "id": "8DC78858-6578-4699-BBA3-966CD005F36B",
+   "json": "kit/symbols/Lock Screen/Hint/Default/Light.json",
+   "png": "kit/symbols/Lock Screen/Hint/Default/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Notification/Collapsed/Dark",
+   "id": "53DBA268-628B-4E5C-81BC-EDD73AE1635B",
+   "json": "kit/symbols/Lock Screen/Notification/Collapsed/Dark.json",
+   "png": "kit/symbols/Lock Screen/Notification/Collapsed/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Notification/Collapsed/Light",
+   "id": "D8B60A49-3A6E-4DA7-A521-70A6F4E03506",
+   "json": "kit/symbols/Lock Screen/Notification/Collapsed/Light.json",
+   "png": "kit/symbols/Lock Screen/Notification/Collapsed/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder Increase Contrast/Dark",
+   "id": "2D8416D0-6C24-467C-8BB5-4C6CBD6283E4",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder Increase Contrast/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder/Dark",
+   "id": "B0A7BE88-FD18-4AF3-82E3-95833DF37662",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Placeholder/Light",
+   "id": "0C40FE64-81CC-481E-98EB-F67980B33D52",
+   "json": "kit/symbols/Lock Screen/Password Field/Placeholder/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Placeholder/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Typing/Dark",
+   "id": "58C1B181-F551-46FC-B4CC-E303DE6C1F00",
+   "json": "kit/symbols/Lock Screen/Password Field/Typing/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Typing/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Typing/Light",
+   "id": "81E119B1-4124-4231-941E-CFD53C73EC97",
+   "json": "kit/symbols/Lock Screen/Password Field/Typing/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Typing/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Verifying/Dark",
+   "id": "01F79F2B-CF66-4DF6-99D8-CADA0CFA1F68",
+   "json": "kit/symbols/Lock Screen/Password Field/Verifying/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Verifying/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Verifying/Light",
+   "id": "D1CA6412-43DA-405F-A9D1-12578673BC9B",
+   "json": "kit/symbols/Lock Screen/Password Field/Verifying/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Verifying/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Wrong/Dark",
+   "id": "F03C2344-C4AF-4E8C-9840-62A65C85AB3F",
+   "json": "kit/symbols/Lock Screen/Password Field/Wrong/Dark.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Wrong/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Password Field/Wrong/Light",
+   "id": "1EC98E2F-95FC-411F-B0B3-903C17BA7966",
+   "json": "kit/symbols/Lock Screen/Password Field/Wrong/Light.json",
+   "png": "kit/symbols/Lock Screen/Password Field/Wrong/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Power Buttons/Provisional/Dark",
+   "id": "F1280932-0AC2-497F-B06C-0FAA7A23CC5B",
+   "json": "kit/symbols/Lock Screen/Power Buttons/Provisional/Dark.json",
+   "png": "kit/symbols/Lock Screen/Power Buttons/Provisional/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Power Buttons/Provisional/Light",
+   "id": "A2E69597-8AC9-441E-8E82-F82C397DC0D8",
+   "json": "kit/symbols/Lock Screen/Power Buttons/Provisional/Light.json",
+   "png": "kit/symbols/Lock Screen/Power Buttons/Provisional/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/Status Items/Default/Dark",
+   "id": "4500D885-CBD8-4A56-A3CC-21CA3D7291BD",
+   "json": "kit/symbols/Lock Screen/Status Items/Default/Dark.json",
+   "png": "kit/symbols/Lock Screen/Status Items/Default/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/Status Items/Default/Light",
+   "id": "089FFEB2-65A7-449D-83F5-AFF2F362DB37",
+   "json": "kit/symbols/Lock Screen/Status Items/Default/Light.json",
+   "png": "kit/symbols/Lock Screen/Status Items/Default/Light@2x.png"
+  },
+  {
+   "name": "Lock Screen/User/Default/Dark",
+   "id": "30EE7871-395D-46EE-BC20-4A8C73B8B770",
+   "json": "kit/symbols/Lock Screen/User/Default/Dark.json",
+   "png": "kit/symbols/Lock Screen/User/Default/Dark@2x.png"
+  },
+  {
+   "name": "Lock Screen/User/Default/Light",
+   "id": "AE3627E3-01BE-4D76-A118-F45D18F7F169",
+   "json": "kit/symbols/Lock Screen/User/Default/Light.json",
+   "png": "kit/symbols/Lock Screen/User/Default/Light@2x.png"
   },
   {
    "name": "Menu Bar/Bar/Closed/Rest/Dark",
@@ -20857,6 +21031,81 @@
    "page": "App · Mustache",
    "artboard": "Toolbar states and submenus / Dark",
    "png": "kit/pages/App · Mustache/Toolbar states and submenus - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Default / Dark",
+   "png": "kit/pages/Lock Screen/Default - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Typing / Dark",
+   "png": "kit/pages/Lock Screen/Typing - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Wrong password / Dark",
+   "png": "kit/pages/Lock Screen/Wrong password - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Hint after second failure / Dark",
+   "png": "kit/pages/Lock Screen/Hint after second failure - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Wake, step 1 / Dark",
+   "png": "kit/pages/Lock Screen/Wake, step 1 - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Wake, step 2 / Dark",
+   "png": "kit/pages/Lock Screen/Wake, step 2 - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "With notifications / Dark",
+   "png": "kit/pages/Lock Screen/With notifications - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Power buttons (provisional) / Dark",
+   "png": "kit/pages/Lock Screen/Power buttons (provisional) - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Switch user (provisional) / Dark",
+   "png": "kit/pages/Lock Screen/Switch user (provisional) - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Default (provisional) / Light",
+   "png": "kit/pages/Lock Screen/Default (provisional) - Light.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Increase contrast (provisional) / Dark",
+   "png": "kit/pages/Lock Screen/Increase contrast (provisional) - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Default 2560 × 1440 / Dark",
+   "png": "kit/pages/Lock Screen/Default 2560 × 1440 - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Parts / Dark",
+   "png": "kit/pages/Lock Screen/Parts - Dark.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "Parts / Light",
+   "png": "kit/pages/Lock Screen/Parts - Light.png"
+  },
+  {
+   "page": "Lock Screen",
+   "artboard": "About / Lock Screen",
+   "png": "kit/pages/Lock Screen/About - Lock Screen.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
