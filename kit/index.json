@@ -12543,6 +12543,18 @@
    "png": "kit/symbols/Segments/Control/Any 5 Text/Regular/Rest/Light@2x.png"
   },
   {
+   "name": "Segments/Control/One 2 Icon + Label/Dark",
+   "id": "21661700-17CD-4287-9397-59298034BEC7",
+   "json": "kit/symbols/Segments/Control/One 2 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 2 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 2 Icon + Label/Light",
+   "id": "4861A8CF-510A-46A9-9318-9028AE297226",
+   "json": "kit/symbols/Segments/Control/One 2 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 2 Icon + Label/Light@2x.png"
+  },
+  {
    "name": "Segments/Control/One 2 Icon/Large/Disabled/Dark",
    "id": "6BF79920-FB7E-4ED1-9C2F-9F4C742BCF6C",
    "json": "kit/symbols/Segments/Control/One 2 Icon/Large/Disabled/Dark.json",
@@ -12781,6 +12793,18 @@
    "id": "62562260-0222-4768-9845-673D15264D79",
    "json": "kit/symbols/Segments/Control/One 2 Text/Small/Rest/Light.json",
    "png": "kit/symbols/Segments/Control/One 2 Text/Small/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 3 Icon + Label/Dark",
+   "id": "57B0E7AC-B0F8-4B3F-8F81-C99D42F6FD09",
+   "json": "kit/symbols/Segments/Control/One 3 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 3 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 3 Icon + Label/Light",
+   "id": "5F3E2EA4-4564-420B-9574-93FAB6DFEFB6",
+   "json": "kit/symbols/Segments/Control/One 3 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 3 Icon + Label/Light@2x.png"
   },
   {
    "name": "Segments/Control/One 3 Icon/Large/Disabled/Dark",
@@ -13023,6 +13047,18 @@
    "png": "kit/symbols/Segments/Control/One 3 Text/Small/Rest/Light@2x.png"
   },
   {
+   "name": "Segments/Control/One 4 Icon + Label/Dark",
+   "id": "DEA304BE-E730-4FAD-9189-9C0B212BEF0A",
+   "json": "kit/symbols/Segments/Control/One 4 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 4 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 4 Icon + Label/Light",
+   "id": "56F3A426-5A2E-49F9-862A-9C3736A0C0E1",
+   "json": "kit/symbols/Segments/Control/One 4 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 4 Icon + Label/Light@2x.png"
+  },
+  {
    "name": "Segments/Control/One 4 Icon/Large/Disabled/Dark",
    "id": "C672094C-B466-4433-8508-4ED466D0E200",
    "json": "kit/symbols/Segments/Control/One 4 Icon/Large/Disabled/Dark.json",
@@ -13261,6 +13297,18 @@
    "id": "8A688798-052B-498E-A362-BA2EBEAA7DFB",
    "json": "kit/symbols/Segments/Control/One 4 Text/Small/Rest/Light.json",
    "png": "kit/symbols/Segments/Control/One 4 Text/Small/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 5 Icon + Label/Dark",
+   "id": "F2A38F18-D4E4-45AE-A723-66FF105864AC",
+   "json": "kit/symbols/Segments/Control/One 5 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 5 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 5 Icon + Label/Light",
+   "id": "90D5E659-2810-4F02-8C5A-71A3461F2153",
+   "json": "kit/symbols/Segments/Control/One 5 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 5 Icon + Label/Light@2x.png"
   },
   {
    "name": "Segments/Control/One 5 Icon/Large/Disabled/Dark",
@@ -13503,6 +13551,18 @@
    "png": "kit/symbols/Segments/Control/One 5 Text/Small/Rest/Light@2x.png"
   },
   {
+   "name": "Segments/Control/One 6 Icon + Label/Dark",
+   "id": "E8B9ADBF-8F1E-4947-808A-1022A4CF83BD",
+   "json": "kit/symbols/Segments/Control/One 6 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 6 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 6 Icon + Label/Light",
+   "id": "32190707-E4CB-477F-A6B2-0A1A3C052F28",
+   "json": "kit/symbols/Segments/Control/One 6 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 6 Icon + Label/Light@2x.png"
+  },
+  {
    "name": "Segments/Control/One 6 Text/Large/Disabled/Dark",
    "id": "679A0BFD-DA0A-4E00-A83E-614E724CBCE9",
    "json": "kit/symbols/Segments/Control/One 6 Text/Large/Disabled/Dark.json",
@@ -13621,6 +13681,78 @@
    "id": "805F4E87-7799-47F0-B58D-7C2231E82FDA",
    "json": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Light.json",
    "png": "kit/symbols/Segments/Control/One 6 Text/Small/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 7 Icon + Label/Dark",
+   "id": "352F4DF2-002A-47CD-ACFF-A58E30C4E2F0",
+   "json": "kit/symbols/Segments/Control/One 7 Icon + Label/Dark.json",
+   "png": "kit/symbols/Segments/Control/One 7 Icon + Label/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Control/One 7 Icon + Label/Light",
+   "id": "C87CA1BF-16B1-4D05-A0F8-F98958883643",
+   "json": "kit/symbols/Segments/Control/One 7 Icon + Label/Light.json",
+   "png": "kit/symbols/Segments/Control/One 7 Icon + Label/Light@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Disabled/Dark",
+   "id": "FBEA5195-8B5A-4255-8541-AA45E60F7BEC",
+   "json": "kit/symbols/Segments/Icon + Label Item/Disabled/Dark.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Disabled/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Disabled/Light",
+   "id": "E75EED32-56E8-4CA2-9669-D1F4603F9AA4",
+   "json": "kit/symbols/Segments/Icon + Label Item/Disabled/Light.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Disabled/Light@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Hover/Dark",
+   "id": "4EA42B2E-2444-4440-B751-E8C428E56E3B",
+   "json": "kit/symbols/Segments/Icon + Label Item/Hover/Dark.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Hover/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Hover/Light",
+   "id": "202655AA-7D53-47AB-A182-40B0D6AC2426",
+   "json": "kit/symbols/Segments/Icon + Label Item/Hover/Light.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Hover/Light@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Pressed/Dark",
+   "id": "61D97A53-431B-49E7-96F4-C2DB31E81AC1",
+   "json": "kit/symbols/Segments/Icon + Label Item/Pressed/Dark.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Pressed/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Pressed/Light",
+   "id": "5407EB26-F195-4D65-B9FF-4BBA5F7E0236",
+   "json": "kit/symbols/Segments/Icon + Label Item/Pressed/Light.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Pressed/Light@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Rest/Dark",
+   "id": "1D52EFD0-B595-45FB-848B-DE96A9B72441",
+   "json": "kit/symbols/Segments/Icon + Label Item/Rest/Dark.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Rest/Light",
+   "id": "9BF4B7C0-9698-45DD-AAC4-B65DC7327592",
+   "json": "kit/symbols/Segments/Icon + Label Item/Rest/Light.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Rest/Light@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Selected/Dark",
+   "id": "1E9A1B7A-CB5A-4660-A743-6854B8FD198D",
+   "json": "kit/symbols/Segments/Icon + Label Item/Selected/Dark.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Selected/Dark@2x.png"
+  },
+  {
+   "name": "Segments/Icon + Label Item/Selected/Light",
+   "id": "9F027206-6D75-46D7-97C0-3708AEA45E42",
+   "json": "kit/symbols/Segments/Icon + Label Item/Selected/Light.json",
+   "png": "kit/symbols/Segments/Icon + Label Item/Selected/Light@2x.png"
   },
   {
    "name": "Segments/Icon Item/Large/Disabled/Dark",
@@ -14005,138 +14137,6 @@
    "id": "C855913A-70E1-48C1-A285-6584FB2E84A6",
    "json": "kit/symbols/Segments/Text Item/Small/Selected/Light.json",
    "png": "kit/symbols/Segments/Text Item/Small/Selected/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/2 Panes/Dark",
-   "id": "21661700-17CD-4287-9397-59298034BEC7",
-   "json": "kit/symbols/Settings Tabs/Bar/2 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/2 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/2 Panes/Light",
-   "id": "4861A8CF-510A-46A9-9318-9028AE297226",
-   "json": "kit/symbols/Settings Tabs/Bar/2 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/2 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/3 Panes/Dark",
-   "id": "57B0E7AC-B0F8-4B3F-8F81-C99D42F6FD09",
-   "json": "kit/symbols/Settings Tabs/Bar/3 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/3 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/3 Panes/Light",
-   "id": "5F3E2EA4-4564-420B-9574-93FAB6DFEFB6",
-   "json": "kit/symbols/Settings Tabs/Bar/3 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/3 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/4 Panes/Dark",
-   "id": "DEA304BE-E730-4FAD-9189-9C0B212BEF0A",
-   "json": "kit/symbols/Settings Tabs/Bar/4 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/4 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/4 Panes/Light",
-   "id": "56F3A426-5A2E-49F9-862A-9C3736A0C0E1",
-   "json": "kit/symbols/Settings Tabs/Bar/4 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/4 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/5 Panes/Dark",
-   "id": "F2A38F18-D4E4-45AE-A723-66FF105864AC",
-   "json": "kit/symbols/Settings Tabs/Bar/5 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/5 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/5 Panes/Light",
-   "id": "90D5E659-2810-4F02-8C5A-71A3461F2153",
-   "json": "kit/symbols/Settings Tabs/Bar/5 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/5 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/6 Panes/Dark",
-   "id": "E8B9ADBF-8F1E-4947-808A-1022A4CF83BD",
-   "json": "kit/symbols/Settings Tabs/Bar/6 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/6 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/6 Panes/Light",
-   "id": "32190707-E4CB-477F-A6B2-0A1A3C052F28",
-   "json": "kit/symbols/Settings Tabs/Bar/6 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/6 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/7 Panes/Dark",
-   "id": "352F4DF2-002A-47CD-ACFF-A58E30C4E2F0",
-   "json": "kit/symbols/Settings Tabs/Bar/7 Panes/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Bar/7 Panes/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Bar/7 Panes/Light",
-   "id": "C87CA1BF-16B1-4D05-A0F8-F98958883643",
-   "json": "kit/symbols/Settings Tabs/Bar/7 Panes/Light.json",
-   "png": "kit/symbols/Settings Tabs/Bar/7 Panes/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Disabled/Dark",
-   "id": "FBEA5195-8B5A-4255-8541-AA45E60F7BEC",
-   "json": "kit/symbols/Settings Tabs/Item/Disabled/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Item/Disabled/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Disabled/Light",
-   "id": "E75EED32-56E8-4CA2-9669-D1F4603F9AA4",
-   "json": "kit/symbols/Settings Tabs/Item/Disabled/Light.json",
-   "png": "kit/symbols/Settings Tabs/Item/Disabled/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Hover/Dark",
-   "id": "4EA42B2E-2444-4440-B751-E8C428E56E3B",
-   "json": "kit/symbols/Settings Tabs/Item/Hover/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Item/Hover/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Hover/Light",
-   "id": "202655AA-7D53-47AB-A182-40B0D6AC2426",
-   "json": "kit/symbols/Settings Tabs/Item/Hover/Light.json",
-   "png": "kit/symbols/Settings Tabs/Item/Hover/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Pressed/Dark",
-   "id": "61D97A53-431B-49E7-96F4-C2DB31E81AC1",
-   "json": "kit/symbols/Settings Tabs/Item/Pressed/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Item/Pressed/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Pressed/Light",
-   "id": "5407EB26-F195-4D65-B9FF-4BBA5F7E0236",
-   "json": "kit/symbols/Settings Tabs/Item/Pressed/Light.json",
-   "png": "kit/symbols/Settings Tabs/Item/Pressed/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Rest/Dark",
-   "id": "1D52EFD0-B595-45FB-848B-DE96A9B72441",
-   "json": "kit/symbols/Settings Tabs/Item/Rest/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Item/Rest/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Rest/Light",
-   "id": "9BF4B7C0-9698-45DD-AAC4-B65DC7327592",
-   "json": "kit/symbols/Settings Tabs/Item/Rest/Light.json",
-   "png": "kit/symbols/Settings Tabs/Item/Rest/Light@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Selected/Dark",
-   "id": "1E9A1B7A-CB5A-4660-A743-6854B8FD198D",
-   "json": "kit/symbols/Settings Tabs/Item/Selected/Dark.json",
-   "png": "kit/symbols/Settings Tabs/Item/Selected/Dark@2x.png"
-  },
-  {
-   "name": "Settings Tabs/Item/Selected/Light",
-   "id": "9F027206-6D75-46D7-97C0-3708AEA45E42",
-   "json": "kit/symbols/Settings Tabs/Item/Selected/Light.json",
-   "png": "kit/symbols/Settings Tabs/Item/Selected/Light@2x.png"
   },
   {
    "name": "Sidebars/Badge/Rest/Dark",
@@ -21672,16 +21672,6 @@
   },
   {
    "page": "Segmented Controls",
-   "artboard": "Settings tabs / Light",
-   "png": "kit/pages/Segmented Controls/Settings tabs - Light.png"
-  },
-  {
-   "page": "Segmented Controls",
-   "artboard": "Settings tabs / Dark",
-   "png": "kit/pages/Segmented Controls/Settings tabs - Dark.png"
-  },
-  {
-   "page": "Segmented Controls",
    "artboard": "Segmented control, six text segments / Light",
    "png": "kit/pages/Segmented Controls/Segmented control, six text segments - Light.png"
   },
@@ -21689,6 +21679,16 @@
    "page": "Segmented Controls",
    "artboard": "Segmented control, six text segments / Dark",
    "png": "kit/pages/Segmented Controls/Segmented control, six text segments - Dark.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Segmented control, icon + label / Light",
+   "png": "kit/pages/Segmented Controls/Segmented control, icon + label - Light.png"
+  },
+  {
+   "page": "Segmented Controls",
+   "artboard": "Segmented control, icon + label / Dark",
+   "png": "kit/pages/Segmented Controls/Segmented control, icon + label - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
