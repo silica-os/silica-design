@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-18 (lock screen)",
+ "exported": "2026-10-18 (pop-up and pull-down open placement)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
