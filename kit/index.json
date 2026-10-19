@@ -1,6 +1,6 @@
 {
  "source": "Silica 1.0 Amalfi UI Kit (DEB2F9E8-966A-4E25-A6AF-6BAF189DD87E)",
- "exported": "2026-10-19 (Mustache dark settings checkmarks)",
+ "exported": "2026-10-19 (app installation)",
  "symbols": [
   {
    "name": "Alerts/Alert/Critical/Rest/Dark",
@@ -73,6 +73,90 @@
    "id": "DD47CF7D-6A76-46B7-AE82-AC034524F488",
    "json": "kit/symbols/Alerts/Alert/With Field/Rest/Light.json",
    "png": "kit/symbols/Alerts/Alert/With Field/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Authentication/Rest/Dark",
+   "id": "33AB979F-B638-4DAB-B9D8-DA268AC48E29",
+   "json": "kit/symbols/Alerts/Authentication/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Authentication/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Authentication/Rest/Light",
+   "id": "BA612DD8-2D28-45A2-B586-94C617314ED7",
+   "json": "kit/symbols/Alerts/Authentication/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Authentication/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Blocked/Rest/Dark",
+   "id": "CBE09ACE-B496-4AFC-9E87-CD6CFB08C8EA",
+   "json": "kit/symbols/Alerts/Gatekeeper/Blocked/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Blocked/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Blocked/Rest/Light",
+   "id": "963C10E9-D031-47C1-889F-CD3B554216CD",
+   "json": "kit/symbols/Alerts/Gatekeeper/Blocked/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Blocked/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Confirm/Rest/Dark",
+   "id": "F461B1F8-CF18-4ECB-BE65-D6C0D902166A",
+   "json": "kit/symbols/Alerts/Gatekeeper/Confirm/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Confirm/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Confirm/Rest/Light",
+   "id": "763FBB6F-54FB-4D09-B8F6-D368A7BFF2C0",
+   "json": "kit/symbols/Alerts/Gatekeeper/Confirm/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Confirm/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Disk Image/Rest/Dark",
+   "id": "1398A70F-0A22-4E32-BE07-9F43ED1751A0",
+   "json": "kit/symbols/Alerts/Gatekeeper/Disk Image/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Disk Image/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Disk Image/Rest/Light",
+   "id": "A0F76D9C-11DE-4CD5-8306-CB7545F52D32",
+   "json": "kit/symbols/Alerts/Gatekeeper/Disk Image/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Disk Image/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Eject/Rest/Dark",
+   "id": "D23179D7-CAEC-4193-A729-46B750280B02",
+   "json": "kit/symbols/Alerts/Gatekeeper/Eject/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Eject/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Eject/Rest/Light",
+   "id": "BF0B3F41-FDEF-43B9-98E9-9B4FE8469B78",
+   "json": "kit/symbols/Alerts/Gatekeeper/Eject/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Eject/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Malware/Rest/Dark",
+   "id": "F976E0DD-3E76-47E7-9322-F31929441A10",
+   "json": "kit/symbols/Alerts/Gatekeeper/Malware/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Malware/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Malware/Rest/Light",
+   "id": "2682D344-B02B-4196-B480-0B8DC01BF8F1",
+   "json": "kit/symbols/Alerts/Gatekeeper/Malware/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Malware/Rest/Light@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Quit and Move/Rest/Dark",
+   "id": "4D7E4BAF-DF87-435B-AF11-C3DCB6ED9423",
+   "json": "kit/symbols/Alerts/Gatekeeper/Quit and Move/Rest/Dark.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Quit and Move/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Alerts/Gatekeeper/Quit and Move/Rest/Light",
+   "id": "8A7E587A-406E-4855-AE0E-DA15092821C6",
+   "json": "kit/symbols/Alerts/Gatekeeper/Quit and Move/Rest/Light.json",
+   "png": "kit/symbols/Alerts/Gatekeeper/Quit and Move/Rest/Light@2x.png"
   },
   {
    "name": "Apps/Calculator/Basic/Dark",
@@ -505,6 +589,30 @@
    "id": "B0D0D705-3F56-44A0-AE78-C05A0EEF1581",
    "json": "kit/symbols/Apps/Faro/Launcher Category/Light.json",
    "png": "kit/symbols/Apps/Faro/Launcher Category/Light@2x.png"
+  },
+  {
+   "name": "Apps/Faro/Launcher Item/New/Dark",
+   "id": "5FD167FF-787F-4C49-9DE1-A36A44F646E0",
+   "json": "kit/symbols/Apps/Faro/Launcher Item/New/Dark.json",
+   "png": "kit/symbols/Apps/Faro/Launcher Item/New/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Faro/Launcher Item/New/Light",
+   "id": "9735A0E6-4225-40D4-BDBD-3DF3DFA523CF",
+   "json": "kit/symbols/Apps/Faro/Launcher Item/New/Light.json",
+   "png": "kit/symbols/Apps/Faro/Launcher Item/New/Light@2x.png"
+  },
+  {
+   "name": "Apps/Faro/Launcher Item/Rest/Dark",
+   "id": "5FF65B18-0942-470D-B628-C23F38945CE8",
+   "json": "kit/symbols/Apps/Faro/Launcher Item/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Faro/Launcher Item/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Faro/Launcher Item/Rest/Light",
+   "id": "D3E3638A-C971-4472-A0F8-3422E281D6AB",
+   "json": "kit/symbols/Apps/Faro/Launcher Item/Rest/Light.json",
+   "png": "kit/symbols/Apps/Faro/Launcher Item/Rest/Light@2x.png"
   },
   {
    "name": "Apps/Faro/Launcher List/Dark",
@@ -1119,6 +1227,18 @@
    "png": "kit/symbols/Apps/Mustache/Icons Preview/Light@2x.png"
   },
   {
+   "name": "Apps/Mustache/Icons Volume/Dark",
+   "id": "4E05B939-8587-4026-886A-161297644C80",
+   "json": "kit/symbols/Apps/Mustache/Icons Volume/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Icons Volume/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Icons Volume/Light",
+   "id": "C0D90B97-6D61-4FFF-BF37-0CECFB3B6A3C",
+   "json": "kit/symbols/Apps/Mustache/Icons Volume/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Icons Volume/Light@2x.png"
+  },
+  {
    "name": "Apps/Mustache/Icons/Dark",
    "id": "DA78D9BB-74E3-402F-9E51-0011D95B3081",
    "json": "kit/symbols/Apps/Mustache/Icons/Dark.json",
@@ -1345,6 +1465,18 @@
    "id": "CE09C501-388D-4B20-9E37-3264EB0C406C",
    "json": "kit/symbols/Apps/Mustache/Settings Tags/Light.json",
    "png": "kit/symbols/Apps/Mustache/Settings Tags/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Sidebar Volume/Dark",
+   "id": "EFC59A67-4687-4D60-B725-06C1041D71F7",
+   "json": "kit/symbols/Apps/Mustache/Sidebar Volume/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Sidebar Volume/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Sidebar Volume/Light",
+   "id": "333D2BD7-34C6-4BEB-97B4-3E2366F6CF30",
+   "json": "kit/symbols/Apps/Mustache/Sidebar Volume/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Sidebar Volume/Light@2x.png"
   },
   {
    "name": "Apps/Mustache/Sidebar/Dark",
@@ -2595,6 +2727,54 @@
    "png": "kit/symbols/Apps/Mustache/Toolbar/View/List/Pressed/Light@2x.png"
   },
   {
+   "name": "Apps/Mustache/Volume Item/Label Plate/Dark",
+   "id": "C3156609-0663-4945-87A0-17CA8FB8432A",
+   "json": "kit/symbols/Apps/Mustache/Volume Item/Label Plate/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Item/Label Plate/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Item/Label Plate/Light",
+   "id": "0133BF82-7DB2-4B03-B8AC-791C4BE1C166",
+   "json": "kit/symbols/Apps/Mustache/Volume Item/Label Plate/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Item/Label Plate/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Custom Background/Dark",
+   "id": "8E0DB356-7E2C-49D6-8606-035C360572F2",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Custom Background/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Custom Background/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Custom Background/Light",
+   "id": "526CCF5B-40D2-47FC-9878-C0DFEBE2FCED",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Custom Background/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Custom Background/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Default Background Selected/Dark",
+   "id": "F8616B79-B68E-47D9-B9BF-69F33101B457",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Default Background Selected/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Default Background Selected/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Default Background Selected/Light",
+   "id": "BE1F37B3-B132-4643-A937-1C1A3DB12C1F",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Default Background Selected/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Default Background Selected/Light@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Default Background/Dark",
+   "id": "39EF6CB4-7CE0-463C-ACC2-065A5A95A49A",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Default Background/Dark.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Default Background/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Mustache/Volume Window/Default Background/Light",
+   "id": "A165F4D5-79A7-4BCF-8D48-22EB5144A997",
+   "json": "kit/symbols/Apps/Mustache/Volume Window/Default Background/Light.json",
+   "png": "kit/symbols/Apps/Mustache/Volume Window/Default Background/Light@2x.png"
+  },
+  {
    "name": "Apps/Notes/Card/Dark",
    "id": "0C3DBA5A-A77B-44A9-B19C-649554672BD6",
    "json": "kit/symbols/Apps/Notes/Card/Dark.json",
@@ -3495,6 +3675,30 @@
    "png": "kit/symbols/Apps/Settings/Date & Time/Light@2x.png"
   },
   {
+   "name": "Apps/Settings/Default Apps Card/Dark",
+   "id": "B821754C-A523-401A-82B6-820439A09331",
+   "json": "kit/symbols/Apps/Settings/Default Apps Card/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Default Apps Card/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Default Apps Card/Light",
+   "id": "6CA351C6-91C7-4D46-8CAC-63444C215A7E",
+   "json": "kit/symbols/Apps/Settings/Default Apps Card/Light.json",
+   "png": "kit/symbols/Apps/Settings/Default Apps Card/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Default Apps Menu/Web Browser/Dark",
+   "id": "9F0605A8-EC72-4713-8A6E-BF2DB6A607CC",
+   "json": "kit/symbols/Apps/Settings/Default Apps Menu/Web Browser/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Default Apps Menu/Web Browser/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Default Apps Menu/Web Browser/Light",
+   "id": "FAD0E427-3B95-4FA6-AA57-C9C2C186DF00",
+   "json": "kit/symbols/Apps/Settings/Default Apps Menu/Web Browser/Light.json",
+   "png": "kit/symbols/Apps/Settings/Default Apps Menu/Web Browser/Light@2x.png"
+  },
+  {
    "name": "Apps/Settings/Desktop & Dock/Dark",
    "id": "17BA7B19-F410-47AF-92A6-6ED5CA8B2695",
    "json": "kit/symbols/Apps/Settings/Desktop & Dock/Dark.json",
@@ -3915,6 +4119,66 @@
    "png": "kit/symbols/Apps/Settings/Search/Light@2x.png"
   },
   {
+   "name": "Apps/Settings/Security Card/Anywhere/Dark",
+   "id": "23E8741E-AB8F-47D6-86E2-78A2EA31C641",
+   "json": "kit/symbols/Apps/Settings/Security Card/Anywhere/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Anywhere/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Card/Anywhere/Light",
+   "id": "6732530F-8A36-4E5A-B32C-49F10636B73F",
+   "json": "kit/symbols/Apps/Settings/Security Card/Anywhere/Light.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Anywhere/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Card/Blocked App/Dark",
+   "id": "06B33992-8D3F-4593-A822-FA096C1A8775",
+   "json": "kit/symbols/Apps/Settings/Security Card/Blocked App/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Blocked App/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Card/Blocked App/Light",
+   "id": "31172250-111C-4770-A68A-341FD8F1C298",
+   "json": "kit/symbols/Apps/Settings/Security Card/Blocked App/Light.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Blocked App/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Card/Default/Dark",
+   "id": "356D7E34-6076-4EBC-A73C-C6F0F245BF31",
+   "json": "kit/symbols/Apps/Settings/Security Card/Default/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Default/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Card/Default/Light",
+   "id": "FEC8C33F-4B3A-4632-B353-04CEF887BFC8",
+   "json": "kit/symbols/Apps/Settings/Security Card/Default/Light.json",
+   "png": "kit/symbols/Apps/Settings/Security Card/Default/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Menu/Anywhere/Dark",
+   "id": "169FE507-CB0E-42AF-A87A-0C7A2E4A1A01",
+   "json": "kit/symbols/Apps/Settings/Security Menu/Anywhere/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Security Menu/Anywhere/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Menu/Anywhere/Light",
+   "id": "0BDF8F5F-20C8-41D8-BBD6-6E7B3FF55AA9",
+   "json": "kit/symbols/Apps/Settings/Security Menu/Anywhere/Light.json",
+   "png": "kit/symbols/Apps/Settings/Security Menu/Anywhere/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Menu/Flathub/Dark",
+   "id": "C1675F9A-14A4-4063-A1D7-AA517ACCA6BB",
+   "json": "kit/symbols/Apps/Settings/Security Menu/Flathub/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Security Menu/Flathub/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Security Menu/Flathub/Light",
+   "id": "6A39414B-1A58-43A8-995F-3DCE0B3F379F",
+   "json": "kit/symbols/Apps/Settings/Security Menu/Flathub/Light.json",
+   "png": "kit/symbols/Apps/Settings/Security Menu/Flathub/Light@2x.png"
+  },
+  {
    "name": "Apps/Settings/Sharing/Dark",
    "id": "96C0AD1F-B822-4C38-AB51-8E5502ECF390",
    "json": "kit/symbols/Apps/Settings/Sharing/Dark.json",
@@ -3985,6 +4249,30 @@
    "id": "B0777F6D-10B5-42CD-93BE-8AAA6F61BDDC",
    "json": "kit/symbols/Apps/Settings/Sound/Light.json",
    "png": "kit/symbols/Apps/Settings/Sound/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Storage App Row/Rest/Dark",
+   "id": "349F521B-B3FB-428C-93AD-5E5170C900C7",
+   "json": "kit/symbols/Apps/Settings/Storage App Row/Rest/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Storage App Row/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Storage App Row/Rest/Light",
+   "id": "93E9C52E-90BB-4307-9401-FA864C5FC8DE",
+   "json": "kit/symbols/Apps/Settings/Storage App Row/Rest/Light.json",
+   "png": "kit/symbols/Apps/Settings/Storage App Row/Rest/Light@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Storage App Row/System/Dark",
+   "id": "D561DAE2-0F09-4CE3-AF11-3844D06228C1",
+   "json": "kit/symbols/Apps/Settings/Storage App Row/System/Dark.json",
+   "png": "kit/symbols/Apps/Settings/Storage App Row/System/Dark@2x.png"
+  },
+  {
+   "name": "Apps/Settings/Storage App Row/System/Light",
+   "id": "6FE2B8EA-6A15-4B00-9E4F-85027CEE662A",
+   "json": "kit/symbols/Apps/Settings/Storage App Row/System/Light.json",
+   "png": "kit/symbols/Apps/Settings/Storage App Row/System/Light@2x.png"
   },
   {
    "name": "Apps/Settings/Storage/Dark",
@@ -4957,6 +5245,18 @@
    "id": "142DDC8C-455B-4227-8282-15D0C1B4B5B5",
    "json": "kit/symbols/Buttons/Link/Link/Rest/Light.json",
    "png": "kit/symbols/Buttons/Link/Link/Rest/Light@2x.png"
+  },
+  {
+   "name": "Buttons/Pop-up/App/Regular/Rest/Dark",
+   "id": "2E01D550-F9AE-489C-853A-3BAC77DE1C13",
+   "json": "kit/symbols/Buttons/Pop-up/App/Regular/Rest/Dark.json",
+   "png": "kit/symbols/Buttons/Pop-up/App/Regular/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Buttons/Pop-up/App/Regular/Rest/Light",
+   "id": "64811D8A-CDF9-4E4F-BDD4-8D3D0E90F4CC",
+   "json": "kit/symbols/Buttons/Pop-up/App/Regular/Rest/Light.json",
+   "png": "kit/symbols/Buttons/Pop-up/App/Regular/Rest/Light@2x.png"
   },
   {
    "name": "Buttons/Pop-up/Large/Disabled/Dark",
@@ -7671,6 +7971,18 @@
    "png": "kit/symbols/Dock/Tile/Mail/Running/Light@2x.png"
   },
   {
+   "name": "Dock/Tile/Missing/Rest/Dark",
+   "id": "B9E684C4-2593-4356-97FB-0E3EA1A40570",
+   "json": "kit/symbols/Dock/Tile/Missing/Rest/Dark.json",
+   "png": "kit/symbols/Dock/Tile/Missing/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Dock/Tile/Missing/Rest/Light",
+   "id": "F016E924-69D2-4A45-86AF-B387EC31D2ED",
+   "json": "kit/symbols/Dock/Tile/Missing/Rest/Light.json",
+   "png": "kit/symbols/Dock/Tile/Missing/Rest/Light@2x.png"
+  },
+  {
    "name": "Dock/Tile/Notes/Rest/Dark",
    "id": "B1BC9870-5AE7-4CFA-82F1-260C6EBAFCC5",
    "json": "kit/symbols/Dock/Tile/Notes/Rest/Dark.json",
@@ -9325,6 +9637,30 @@
    "id": "1B91AB3C-43A4-4C36-A788-358EFB8E8298",
    "json": "kit/symbols/Menu Bar/Item/Name/Rest/Light.json",
    "png": "kit/symbols/Menu Bar/Item/Name/Rest/Light@2x.png"
+  },
+  {
+   "name": "Menus/Item/App/Checked/Dark",
+   "id": "8F5189BC-411B-4132-B4C2-CA9738F9E95D",
+   "json": "kit/symbols/Menus/Item/App/Checked/Dark.json",
+   "png": "kit/symbols/Menus/Item/App/Checked/Dark@2x.png"
+  },
+  {
+   "name": "Menus/Item/App/Checked/Light",
+   "id": "185B7CCA-FD82-42D7-A791-823A2BE841D9",
+   "json": "kit/symbols/Menus/Item/App/Checked/Light.json",
+   "png": "kit/symbols/Menus/Item/App/Checked/Light@2x.png"
+  },
+  {
+   "name": "Menus/Item/App/Rest/Dark",
+   "id": "B86C685D-D832-4BE7-839F-DE8619177395",
+   "json": "kit/symbols/Menus/Item/App/Rest/Dark.json",
+   "png": "kit/symbols/Menus/Item/App/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Menus/Item/App/Rest/Light",
+   "id": "7DB13A59-CCB3-4D77-BD93-7911DC96188D",
+   "json": "kit/symbols/Menus/Item/App/Rest/Light.json",
+   "png": "kit/symbols/Menus/Item/App/Rest/Light@2x.png"
   },
   {
    "name": "Menus/Item/Checkmark/Highlighted/Dark",
@@ -14353,6 +14689,54 @@
    "id": "49257399-CC22-4E4D-AB7A-7D3F80300EC6",
    "json": "kit/symbols/Sidebars/Row/Plain/Selected/Light.json",
    "png": "kit/symbols/Sidebars/Row/Plain/Selected/Light@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Hover/Dark",
+   "id": "80BA4743-C345-4C11-B0CA-D3C68DA3CE6D",
+   "json": "kit/symbols/Sidebars/Row/Volume/Hover/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Hover/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Hover/Light",
+   "id": "AFB179F4-3909-4192-872A-C1D8028958D4",
+   "json": "kit/symbols/Sidebars/Row/Volume/Hover/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Hover/Light@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Rest/Dark",
+   "id": "79A03049-ADFE-4418-9C5B-AAB7E21A6E74",
+   "json": "kit/symbols/Sidebars/Row/Volume/Rest/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Rest/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Rest/Light",
+   "id": "E114A640-9251-401D-A926-8F5E7EAD6EC3",
+   "json": "kit/symbols/Sidebars/Row/Volume/Rest/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Rest/Light@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Selected Inactive/Dark",
+   "id": "3425C76B-20CB-453C-A835-C74B03F30F1C",
+   "json": "kit/symbols/Sidebars/Row/Volume/Selected Inactive/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Selected Inactive/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Selected Inactive/Light",
+   "id": "3AD2F24F-C3DE-4116-A9A2-628C6B61EF70",
+   "json": "kit/symbols/Sidebars/Row/Volume/Selected Inactive/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Selected Inactive/Light@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Selected/Dark",
+   "id": "D0EEC589-BB28-4646-B57E-663E544FFE87",
+   "json": "kit/symbols/Sidebars/Row/Volume/Selected/Dark.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Selected/Dark@2x.png"
+  },
+  {
+   "name": "Sidebars/Row/Volume/Selected/Light",
+   "id": "79936756-7E0F-48CC-9449-431E679E6C8C",
+   "json": "kit/symbols/Sidebars/Row/Volume/Selected/Light.json",
+   "png": "kit/symbols/Sidebars/Row/Volume/Selected/Light@2x.png"
   },
   {
    "name": "Sliders/Circular/Dial/Disabled/Dark",
@@ -21689,6 +22073,116 @@
    "page": "Segmented Controls",
    "artboard": "Segmented control, icon + label / Dark",
    "png": "kit/pages/Segmented Controls/Segmented control, icon + label - Dark.png"
+  },
+  {
+   "page": "Alerts",
+   "artboard": "Gatekeeper / Light",
+   "png": "kit/pages/Alerts/Gatekeeper - Light.png"
+  },
+  {
+   "page": "Alerts",
+   "artboard": "Gatekeeper / Dark",
+   "png": "kit/pages/Alerts/Gatekeeper - Dark.png"
+  },
+  {
+   "page": "Menu Bar and Dock",
+   "artboard": "Dock, missing app / Light",
+   "png": "kit/pages/Menu Bar and Dock/Dock, missing app - Light.png"
+  },
+  {
+   "page": "Menu Bar and Dock",
+   "artboard": "Dock, missing app / Dark",
+   "png": "kit/pages/Menu Bar and Dock/Dock, missing app - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Sidebar with a volume / Light",
+   "png": "kit/pages/App · Mustache/Sidebar with a volume - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Volume window / Light",
+   "png": "kit/pages/App · Mustache/Volume window - Light.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Sidebar with a volume / Dark",
+   "png": "kit/pages/App · Mustache/Sidebar with a volume - Dark.png"
+  },
+  {
+   "page": "App · Mustache",
+   "artboard": "Volume window / Dark",
+   "png": "kit/pages/App · Mustache/Volume window - Dark.png"
+  },
+  {
+   "page": "App · Faro",
+   "artboard": "Launcher, new app / Light",
+   "png": "kit/pages/App · Faro/Launcher, new app - Light.png"
+  },
+  {
+   "page": "App · Faro",
+   "artboard": "Launcher, new app / Dark",
+   "png": "kit/pages/App · Faro/Launcher, new app - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Desktop & Dock › Default apps / Light",
+   "png": "kit/pages/App · Settings/Desktop & Dock _ Default apps - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Desktop & Dock › Default apps menu / Light",
+   "png": "kit/pages/App · Settings/Desktop & Dock _ Default apps menu - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Desktop & Dock › Default apps / Dark",
+   "png": "kit/pages/App · Settings/Desktop & Dock _ Default apps - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Desktop & Dock › Default apps menu / Dark",
+   "png": "kit/pages/App · Settings/Desktop & Dock _ Default apps menu - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Security / Light",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Security - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Open Anyway password / Light",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Open Anyway password - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Allow applications from menu / Light",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Allow applications from menu - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Security / Dark",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Security - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Open Anyway password / Dark",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Open Anyway password - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "Privacy & Security › Allow applications from menu / Dark",
+   "png": "kit/pages/App · Settings/Privacy & Security _ Allow applications from menu - Dark.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "General › Storage, apps / Light",
+   "png": "kit/pages/App · Settings/General _ Storage, apps - Light.png"
+  },
+  {
+   "page": "App · Settings",
+   "artboard": "General › Storage, apps / Dark",
+   "png": "kit/pages/App · Settings/General _ Storage, apps - Dark.png"
   }
  ],
  "note": "Local copies of library symbols (Icon Kit glyphs \"Regular / <name>\", app-icons \"Icon / …\", \"Icons / …\", \"Launchpad\", \"Trash / …\") are not exported: use silica-icons."
